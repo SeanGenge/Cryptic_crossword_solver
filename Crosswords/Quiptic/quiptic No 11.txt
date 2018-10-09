@@ -1,0 +1,224 @@
+size:15
+new clue
+number:1
+clue:Declare Ann put on very little weight (8)
+direction:across
+length:8
+position:x:0,y:0
+solution:ANNOUNCE
+
+new clue
+number:5
+clue:This morning the American editor will be entertained (6)
+direction:across
+length:6
+position:x:9,y:0
+solution:AMUSED
+
+new clue
+number:9
+clue:Angry except with what goes over the goalkeeper''s head? (8)
+direction:across
+length:8
+position:x:0,y:2
+solution:CROSSBAR
+
+new clue
+number:10
+clue:Street telephone line (6)
+direction:across
+length:6
+position:x:9,y:2
+solution:STRING
+
+new clue
+number:11
+clue:Capital to repair disorder (8)
+direction:across
+length:8
+position:x:0,y:4
+solution:PRETORIA
+
+new clue
+number:12
+clue:I caught Hans without fetters (6)
+direction:across
+length:6
+position:x:9,y:4
+solution:CHAINS
+
+new clue
+number:14
+clue:Fierce fire at front of entrance (10)
+direction:across
+length:10
+position:x:5,y:6
+solution:PASSIONATE
+
+new clue
+number:18
+clue:Antibiotic pill, nice in another form (10)
+direction:across
+length:10
+position:x:0,y:8
+solution:PENICILLIN
+
+new clue
+number:22
+clue:Some may reminisce; nice views are picturesque (6)
+direction:across
+length:6
+position:x:0,y:10
+solution:SCENIC
+
+new clue
+number:23
+clue:Pat drops round to see Tom, the playwright (8)
+direction:across
+length:8
+position:x:7,y:10
+solution:STOPPARD
+
+new clue
+number:24
+clue:Hang around to find underwear that is missing (6)
+direction:across
+length:6
+position:x:0,y:12
+solution:LINGER
+
+new clue
+number:25
+clue:Insect to run away from animal (8)
+direction:across
+length:8
+position:x:7,y:12
+solution:ANTELOPE
+
+new clue
+number:26
+clue:Greeting us, late coming round (6)
+direction:across
+length:6
+position:x:0,y:14
+solution:SALUTE
+
+new clue
+number:27
+clue:After protest meeting, caught rotten person with US politician (8)
+direction:across
+length:8
+position:x:7,y:14
+solution:DEMOCRAT
+
+new clue
+number:1
+clue:Take a new cap, etc (6)
+direction:down
+length:6
+position:x:0,y:0
+solution:ACCEPT
+
+new clue
+number:2
+clue:They catch cattle with a ring in their snouts (6)
+direction:down
+length:6
+position:x:2,y:0
+solution:NOOSES
+
+new clue
+number:3
+clue:Raised and fired, with this outcome (6)
+direction:down
+length:6
+position:x:4,y:0
+solution:UPSHOT
+
+new clue
+number:4
+clue:Kind of chair specially designed to go with table (10)
+direction:down
+length:10
+position:x:6,y:0
+solution:CHARITABLE
+
+new clue
+number:6
+clue:Container in which cigarette lighters are packed (8)
+direction:down
+length:8
+position:x:10,y:0
+solution:MATCHBOX
+
+new clue
+number:7
+clue:Likely to make oneself late? (8)
+direction:down
+length:8
+position:x:12,y:0
+solution:SUICIDAL
+
+new clue
+number:8
+clue:Absorbed, like a frisky steed? (8)
+direction:down
+length:8
+position:x:14,y:0
+solution:DIGESTED
+
+new clue
+number:13
+clue:Help shop worker taking time off to go to church (10)
+direction:down
+length:10
+position:x:8,y:5
+solution:ASSISTANCE
+
+new clue
+number:15
+clue:A job with the French disciples (8)
+direction:down
+length:8
+position:x:0,y:7
+solution:APOSTLES
+
+new clue
+number:16
+clue:Interior of inn later rebuilt (8)
+direction:down
+length:8
+position:x:2,y:7
+solution:INTERNAL
+
+new clue
+number:17
+clue:In short, I had to go into way of pronouncing "mishap" (8)
+direction:down
+length:8
+position:x:4,y:7
+solution:ACCIDENT
+
+new clue
+number:19
+clue:It informs one of the going rate for amphetamine, love (6)
+direction:down
+length:6
+position:x:10,y:9
+solution:SPEEDO
+
+new clue
+number:20
+clue:Party which expectant woman can go into? (6)
+direction:down
+length:6
+position:x:12,y:9
+solution:LABOUR
+
+new clue
+number:21
+clue:Now opening for the four Sundays before Christmas (6)
+direction:down
+length:6
+position:x:14,y:9
+solution:ADVENT

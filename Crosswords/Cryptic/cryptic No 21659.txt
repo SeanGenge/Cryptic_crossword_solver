@@ -1,0 +1,208 @@
+size:15
+new clue
+number:7
+clue:One who smashes cars - on the circuit? (7)
+direction:across
+length:7
+position:x:0,y:1
+solution:BREAKER
+
+new clue
+number:8
+clue:One is supposed to look better for eating them (7)
+direction:across
+length:7
+position:x:8,y:1
+solution:CARROTS
+
+new clue
+number:10
+clue:An infant rock-and-roller (6)
+direction:across
+length:6
+position:x:0,y:3
+solution:CRADLE
+
+new clue
+number:11
+clue:One's fiancée proposed (8)
+direction:across
+length:8
+position:x:7,y:3
+solution:INTENDED
+
+new clue
+number:12
+clue:Great honour conferred on an Arab sultanate (4)
+direction:across
+length:4
+position:x:0,y:5
+solution:OMAN
+
+new clue
+number:13
+clue:Generally helpful, he has the odd idea to abscond (4,2,4)
+direction:across
+length:10
+position:x:5,y:5
+solution:AIDEDECAMP
+
+new clue
+number:14
+clue:Documents required when handing over vehicles (11)
+direction:across
+length:11
+position:x:2,y:7
+solution:CONVEYANCES
+
+new clue
+number:19
+clue:A cut above the other ranks? (10)
+direction:across
+length:10
+position:x:0,y:9
+solution:COMMISSION
+
+new clue
+number:22
+clue:They are driven from the river (4)
+direction:across
+length:4
+position:x:11,y:9
+solution:TEES
+
+new clue
+number:23
+clue:Sort of story that may be touching? (4,4)
+direction:across
+length:8
+position:x:0,y:11
+solution:HARDLUCK
+
+new clue
+number:24
+clue:Used in a sewing machine, it goes round a screw (6)
+direction:across
+length:6
+position:x:9,y:11
+solution:THREAD
+
+new clue
+number:25
+clue:Discipline gained since conversion to church (7)
+direction:across
+length:7
+position:x:0,y:13
+solution:SCIENCE
+
+new clue
+number:26
+clue:Touching sympathy (7)
+direction:across
+length:7
+position:x:8,y:13
+solution:FEELING
+
+new clue
+number:1
+clue:Are there three bank holidays for the rest of its crew? (7)
+direction:down
+length:7
+position:x:1,y:0
+solution:TRIREME
+
+new clue
+number:2
+clue:Cool chap with energy for the dance (8)
+direction:down
+length:8
+position:x:3,y:0
+solution:FANDANGO
+
+new clue
+number:3
+clue:Information a girl found in Switzerland (6)
+direction:down
+length:6
+position:x:5,y:0
+solution:GENEVA
+
+new clue
+number:4
+clue:A mammoth beast disposed to stand and moo (8)
+direction:down
+length:8
+position:x:9,y:0
+solution:MASTODON
+
+new clue
+number:5
+clue:Sarcastic driver, maybe, in charge (6)
+direction:down
+length:6
+position:x:11,y:0
+solution:IRONIC
+
+new clue
+number:6
+clue:Masses of people moving about in the morning in the streets (7)
+direction:down
+length:7
+position:x:13,y:0
+solution:STREAMS
+
+new clue
+number:9
+clue:Game for some drunken flirting? (11)
+direction:down
+length:11
+position:x:7,y:2
+solution:TIDDLYWINKS
+
+new clue
+number:15
+clue:Explorer whose name lives on in America (8)
+direction:down
+length:8
+position:x:5,y:7
+solution:VESPUCCI
+
+new clue
+number:16
+clue:Rent hall in order to mesmerise people (8)
+direction:down
+length:8
+position:x:11,y:7
+solution:ENTHRALL
+
+new clue
+number:17
+clue:Not a subject put on in advance (7)
+direction:down
+length:7
+position:x:1,y:8
+solution:MONARCH
+
+new clue
+number:18
+clue:Mother checks out but doesn't leave (7)
+direction:down
+length:7
+position:x:13,y:8
+solution:REMAINS
+
+new clue
+number:20
+clue:New demand put out of one's mind (6)
+direction:down
+length:6
+position:x:3,y:9
+solution:MADDEN
+
+new clue
+number:21
+clue:Subordinate gives name and number (6)
+direction:down
+length:6
+position:x:9,y:9
+solution:NETHER

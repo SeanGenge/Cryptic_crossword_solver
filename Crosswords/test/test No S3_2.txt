@@ -1,0 +1,22 @@
+size:3
+new clue
+number:1
+clue:This tree may still make you laugh (8)
+direction:across
+length:3
+position:x:0,y:0
+solution:
+new clue
+number:3
+clue:This tree may still make you laugh 2 (8)
+direction:across
+length:3
+position:x:0,y:2
+solution:
+new clue
+number:2
+clue:This tree may still make you laugh 3 (8)
+direction:down
+length:3
+position:x:1,y:0
+solution:

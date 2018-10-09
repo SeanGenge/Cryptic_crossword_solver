@@ -1,0 +1,224 @@
+size:15
+new clue
+number:1
+clue:Befuddled by measure of strong drink, almost spotted the trumpeter (5,9)
+direction:across
+length:14
+position:x:0,y:0
+solution:DIZZYGILLESPIE
+
+new clue
+number:8
+clue:River god adopting extreme position (5)
+direction:across
+length:5
+position:x:0,y:2
+solution:POLAR
+
+new clue
+number:9
+clue:Supply inhabitants with two drugs, digesting the Letters of Paul ... (8)
+direction:across
+length:8
+position:x:6,y:2
+solution:POPULATE
+
+new clue
+number:11
+clue:... where one was sent to the lost sheep of America (7)
+direction:across
+length:7
+position:x:0,y:4
+solution:EPHESUS
+
+new clue
+number:12
+clue:Break down and put it to death, beheaded (7)
+direction:across
+length:7
+position:x:8,y:4
+solution:ITEMISE
+
+new clue
+number:13
+clue:Twins dropping note to one or more spirits (5)
+direction:across
+length:5
+position:x:0,y:6
+solution:GENII
+
+new clue
+number:15
+clue:Yellow aromatic plant received by former monarch's co-ordinator (9)
+direction:across
+length:9
+position:x:6,y:6
+solution:ORGANISER
+
+new clue
+number:17
+clue:Ladies one interrupted hurry back to the childminder (9)
+direction:across
+length:9
+position:x:0,y:8
+solution:NURSEMAID
+
+new clue
+number:20
+clue:He prophesied the Cockney Creator (5)
+direction:across
+length:5
+position:x:10,y:8
+solution:MICAH
+
+new clue
+number:21
+clue:Chained runaway insectivore (7)
+direction:across
+length:7
+position:x:0,y:10
+solution:ECHIDNA
+
+new clue
+number:23
+clue:Shed isn't as bright as Vlad (7)
+direction:across
+length:7
+position:x:8,y:10
+solution:IMPALER
+
+new clue
+number:25
+clue:Desert, boundless desert, devoured by devouring goddess (8)
+direction:across
+length:8
+position:x:1,y:12
+solution:KALAHARI
+
+new clue
+number:26
+clue:Ructions as head gilder separates silver from gold backing (5)
+direction:across
+length:5
+position:x:10,y:12
+solution:AGGRO
+
+new clue
+number:27
+clue:The average porter is a model of excellence (8,6)
+direction:across
+length:14
+position:x:1,y:14
+solution:STANDARDBEARER
+
+new clue
+number:1
+clue:Solved Plodge, suppressing quiet rage, but only half of Gemini? (12)
+direction:down
+length:12
+position:x:0,y:0
+solution:DOPPELGANGER
+
+new clue
+number:2
+clue:"Nul points" in the Brazil-Chile match (5)
+direction:down
+length:5
+position:x:2,y:0
+solution:ZILCH
+
+new clue
+number:3
+clue:County Kerry is getting Home Office worried (9)
+direction:down
+length:9
+position:x:4,y:0
+solution:YORKSHIRE
+
+new clue
+number:4
+clue:Child regarding what makes a painting stand out (7)
+direction:down
+length:7
+position:x:6,y:0
+solution:IMPASTO
+
+new clue
+number:5
+clue:Bird has triumph on stage with "Top Gun" (7)
+direction:down
+length:7
+position:x:8,y:0
+solution:LAPWING
+
+new clue
+number:6
+clue:Swimmer concealing verse in crack (5)
+direction:down
+length:5
+position:x:10,y:0
+solution:SOLVE
+
+new clue
+number:7
+clue:Native in charge after being canned without resistance (9)
+direction:down
+length:9
+position:x:12,y:0
+solution:INTRINSIC
+
+new clue
+number:10
+clue:Surprise attack on aristocrat in pub (The Grove) (5,7)
+direction:down
+length:12
+position:x:14,y:3
+solution:PEARLHARBOUR
+
+new clue
+number:14
+clue:Girl hides the way to 3's location (5-4)
+direction:down
+length:9
+position:x:2,y:6
+solution:NORTHEAST
+
+new clue
+number:16
+clue:Forged metal pane or plaque with handle (4-5)
+direction:down
+length:9
+position:x:10,y:6
+solution:NAMEPLATE
+
+new clue
+number:18
+clue:State taking wing by degrees (7)
+direction:down
+length:7
+position:x:6,y:8
+solution:ALABAMA
+
+new clue
+number:19
+clue:Challenged about compiler being greatly elevated (7)
+direction:down
+length:7
+position:x:8,y:8
+solution:DEIFIED
+
+new clue
+number:22
+clue:Opened and closed without a winner (5)
+direction:down
+length:5
+position:x:4,y:10
+solution:DRAWN
+
+new clue
+number:24
+clue:It shoots down toboggan runs (5)
+direction:down
+length:5
+position:x:12,y:10
+solution:LUGER

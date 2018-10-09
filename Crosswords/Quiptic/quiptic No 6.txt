@@ -1,0 +1,272 @@
+size:15
+new clue
+number:1
+clue:Usual place for white lines? That's hardly extreme (6,2,3,4)
+direction:across
+length:15
+position:x:0,y:0
+solution:MIDDLEOFTHEROAD
+
+new clue
+number:9
+clue:Extended seafront in California (4,5)
+direction:across
+length:9
+position:x:0,y:2
+solution:LONGBEACH
+
+new clue
+number:10
+clue:Grand displays by divorcees around river (5)
+direction:across
+length:5
+position:x:10,y:2
+solution:EXPOS
+
+new clue
+number:11
+clue:Owners of land in the US? (3,4)
+direction:across
+length:7
+position:x:0,y:4
+solution:THEFREE
+
+new clue
+number:12
+clue:Run back east in part-payment deal (5-2)
+direction:across
+length:7
+position:x:8,y:4
+solution:TRADEIN
+
+new clue
+number:13
+clue:Travel over snow, but miss end of comic sketch (3)
+direction:across
+length:3
+position:x:6,y:5
+solution:SKI
+
+new clue
+number:15
+clue:Spock's metalworker (6)
+direction:across
+length:6
+position:x:0,y:6
+solution:VULCAN
+
+new clue
+number:18
+clue:State a Jolson request first (6)
+direction:across
+length:6
+position:x:9,y:6
+solution:ALASKA
+
+new clue
+number:19
+clue:Transports kind of bomb back (5)
+direction:across
+length:5
+position:x:5,y:7
+solution:TRAMS
+
+new clue
+number:20
+clue:Clumsy spoken address to a herring, say (6)
+direction:across
+length:6
+position:x:0,y:8
+solution:OAFISH
+
+new clue
+number:22
+clue:Dachshund that fell off the back of a lorry? (3,3)
+direction:across
+length:6
+position:x:9,y:8
+solution:HOTDOG
+
+new clue
+number:24
+clue:The beginning of past study belongs to him (3)
+direction:across
+length:3
+position:x:6,y:9
+solution:HIS
+
+new clue
+number:26
+clue:To start with, know a military policeman and laugh about an African capital (7)
+direction:across
+length:7
+position:x:0,y:10
+solution:KAMPALA
+
+new clue
+number:27
+clue:Honeybunch: for example, me under quiet volcano (3,4)
+direction:across
+length:7
+position:x:8,y:10
+solution:PETNAME
+
+new clue
+number:29
+clue:Bikini has a price (5)
+direction:across
+length:5
+position:x:0,y:12
+solution:ATOLL
+
+new clue
+number:30
+clue:Admire elk dopily in a somnolent state (9)
+direction:across
+length:9
+position:x:6,y:12
+solution:DREAMLIKE
+
+new clue
+number:31
+clue:Became completely uninhibited after gauntlet hit Lola, surprisingly (3,2,3,4,3)
+direction:across
+length:15
+position:x:0,y:14
+solution:LETITALLHANGOUT
+
+new clue
+number:1
+clue:This could make the party go with a bang! (7,8)
+direction:down
+length:15
+position:x:0,y:0
+solution:MOLOTOVCOCKTAIL
+
+new clue
+number:2
+clue:Poet said to have finished (5)
+direction:down
+length:5
+position:x:2,y:0
+solution:DONNE
+
+new clue
+number:3
+clue:Left Spain and Portugal for an African country (7)
+direction:down
+length:7
+position:x:4,y:0
+solution:LIBERIA
+
+new clue
+number:4
+clue:Speaks out for zero charges (6)
+direction:down
+length:6
+position:x:6,y:0
+solution:ORATES
+
+new clue
+number:5
+clue:South Sea island? Is it Thai, perhaps? (6)
+direction:down
+length:6
+position:x:8,y:0
+solution:TAHITI
+
+new clue
+number:6
+clue:Setter is heard to cry: "Look!" (7)
+direction:down
+length:7
+position:x:10,y:0
+solution:EYEBALL
+
+new clue
+number:7
+clue:Oh! Head of police pushed and victimised (9)
+direction:down
+length:9
+position:x:12,y:0
+solution:OPPRESSED
+
+new clue
+number:8
+clue:Refined gentlemen and it's unravelling (15)
+direction:down
+length:15
+position:x:14,y:0
+solution:DISENTANGLEMENT
+
+new clue
+number:14
+clue:Mini starter reported to be a sort of green (5)
+direction:down
+length:5
+position:x:7,y:5
+solution:KHAKI
+
+new clue
+number:16
+clue:What I did to turn "menopause" into "no pause" (4,2,3)
+direction:down
+length:9
+position:x:2,y:6
+solution:LEFTMEOUT
+
+new clue
+number:17
+clue:Degree to which No Trumps top Hearts (3)
+direction:down
+length:3
+position:x:5,y:6
+solution:NTH
+
+new clue
+number:18
+clue:Initially a solid hardwood tree (3)
+direction:down
+length:3
+position:x:9,y:6
+solution:ASH
+
+new clue
+number:21
+clue:Rattles capricious minor celebrity (7)
+direction:down
+length:7
+position:x:4,y:8
+solution:STARLET
+
+new clue
+number:23
+clue:Bismarck's first on island, but he's Turkish (7)
+direction:down
+length:7
+position:x:10,y:8
+solution:OTTOMAN
+
+new clue
+number:24
+clue:Composer said to open door (6)
+direction:down
+length:6
+position:x:6,y:9
+solution:HANDEL
+
+new clue
+number:25
+clue:Talk and urinate in school? (6)
+direction:down
+length:6
+position:x:8,y:9
+solution:SPEECH
+
+new clue
+number:28
+clue:One foreign friend told to leave by another (5)
+direction:down
+length:5
+position:x:12,y:10
+solution:AMIGO

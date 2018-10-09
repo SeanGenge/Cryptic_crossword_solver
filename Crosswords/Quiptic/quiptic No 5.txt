@@ -1,0 +1,224 @@
+size:15
+new clue
+number:1
+clue:Mostly you infanticides are involved in production of cartoon-style takeover of the world (14)
+direction:across
+length:14
+position:x:0,y:0
+solution:DISNEYFICATION
+
+new clue
+number:9
+clue:Sleuths are men of insight, playful at heart (9)
+direction:across
+length:9
+position:x:0,y:2
+solution:SEARCHERS
+
+new clue
+number:10
+clue:Run into East European worker (5)
+direction:across
+length:5
+position:x:10,y:2
+solution:PROLE
+
+new clue
+number:11
+clue:First of all, I do love endless relaxation! (5)
+direction:across
+length:5
+position:x:0,y:4
+solution:IDLER
+
+new clue
+number:12
+clue:Fellow expresses hesitation before an escort (9)
+direction:across
+length:9
+position:x:6,y:4
+solution:CHAPERONE
+
+new clue
+number:13
+clue:Entrails upset? Find the toilets! (8)
+direction:across
+length:8
+position:x:0,y:6
+solution:LATRINES
+
+new clue
+number:14
+clue:New leader leaving Lancashire town very quickly (6)
+direction:across
+length:6
+position:x:9,y:6
+solution:PRESTO
+
+new clue
+number:17
+clue:Baby crab (6)
+direction:across
+length:6
+position:x:0,y:8
+solution:NIPPER
+
+new clue
+number:19
+clue:Start the game without bruiser on the field (5,3)
+direction:across
+length:8
+position:x:7,y:8
+solution:BULLYOFF
+
+new clue
+number:22
+clue:Lyrical disco harp arrangement (9)
+direction:across
+length:9
+position:x:0,y:10
+solution:RHAPSODIC
+
+new clue
+number:24
+clue:Diminutive Egyptian king or teacher (5)
+direction:across
+length:5
+position:x:10,y:10
+solution:TUTOR
+
+new clue
+number:25
+clue:Annual percentage rate? 49? But that's a month! (5)
+direction:across
+length:5
+position:x:0,y:12
+solution:APRIL
+
+new clue
+number:26
+clue:Popeye is a normal sort (6-3)
+direction:across
+length:9
+position:x:6,y:12
+solution:SAILORMAN
+
+new clue
+number:27
+clue:Information-gathering is criminal in late medieval era (14)
+direction:across
+length:14
+position:x:1,y:14
+solution:RECONNAISSANCE
+
+new clue
+number:1
+clue:Lad in panic: sir is half-crazy flogger (14)
+direction:down
+length:14
+position:x:0,y:0
+solution:DISCIPLINARIAN
+
+new clue
+number:2
+clue:Mix-up rattles minor celebrity (7)
+direction:down
+length:7
+position:x:2,y:0
+solution:STARLET
+
+new clue
+number:3
+clue:After topless sex, writing style become digressive (9)
+direction:down
+length:9
+position:x:4,y:0
+solution:EXCURSIVE
+
+new clue
+number:4
+clue:Normal Stanley makes arrows (8)
+direction:down
+length:8
+position:x:6,y:0
+solution:FLETCHER
+
+new clue
+number:5
+clue:Offhand about sexual irregularity without former partner (6)
+direction:down
+length:6
+position:x:8,y:0
+solution:CASUAL
+
+new clue
+number:6
+clue:Tent's top has point (5)
+direction:down
+length:5
+position:x:10,y:0
+solution:TEPEE
+
+new clue
+number:7
+clue:Headless dead bird - decomposed, sour-smelling (7)
+direction:down
+length:7
+position:x:12,y:0
+solution:ODOROUS
+
+new clue
+number:8
+clue:Cyberspace meeting setting up European net to catch the French confrere right out (14)
+direction:down
+length:14
+position:x:14,y:1
+solution:TELECONFERENCE
+
+new clue
+number:15
+clue:Family is not real, unfortunately (9)
+direction:down
+length:9
+position:x:10,y:6
+solution:RELATIONS
+
+new clue
+number:16
+clue:Vegetable contains a mixture of zinc, copper, hydrogen and iodine (8)
+direction:down
+length:8
+position:x:8,y:7
+solution:ZUCCHINI
+
+new clue
+number:18
+clue:Blair ditching British left in favour of PR, that is plain (7)
+direction:down
+length:7
+position:x:2,y:8
+solution:PRAIRIE
+
+new clue
+number:20
+clue:Park most of backside on an upholstered seat (7)
+direction:down
+length:7
+position:x:12,y:8
+solution:OTTOMAN
+
+new clue
+number:21
+clue:Unusual boy rated likely to succeed (4-2)
+direction:down
+length:6
+position:x:6,y:9
+solution:ODDSON
+
+new clue
+number:23
+clue:In reprisal, volley fired in sea-fight (5)
+direction:down
+length:5
+position:x:4,y:10
+solution:SALVO

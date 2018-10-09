@@ -1,0 +1,256 @@
+size:15
+new clue
+number:1
+clue:Revising for examination (5-4)
+direction:across
+length:9
+position:x:0,y:0
+solution:GOINGOVER
+
+new clue
+number:6
+clue:Positioned using tack, say (5)
+direction:across
+length:5
+position:x:10,y:0
+solution:BASED
+
+new clue
+number:9
+clue:Drier and shower (5)
+direction:across
+length:5
+position:x:0,y:2
+solution:AIRER
+
+new clue
+number:10
+clue:Cricketers sporting flannels and caps (4,5)
+direction:across
+length:9
+position:x:6,y:2
+solution:LONGSTOPS
+
+new clue
+number:11
+clue:Having scaled it up, turns out copies (10)
+direction:across
+length:10
+position:x:0,y:4
+solution:DUPLICATES
+
+new clue
+number:12
+clue:Land in the Minch, perhaps (4)
+direction:across
+length:4
+position:x:11,y:4
+solution:INCH
+
+new clue
+number:14
+clue:Soldier's babble on receiving one stripe (7)
+direction:across
+length:7
+position:x:0,y:6
+solution:PRIVATE
+
+new clue
+number:15
+clue:Horse taken for a grassland run (7)
+direction:across
+length:7
+position:x:8,y:6
+solution:STEPPER
+
+new clue
+number:17
+clue:Court cases to start in northern town (7)
+direction:across
+length:7
+position:x:0,y:8
+solution:CONSETT
+
+new clue
+number:19
+clue:Troops do as back up (7)
+direction:across
+length:7
+position:x:8,y:8
+solution:RESERVE
+
+new clue
+number:20
+clue:Roof of the family semi blown off (4)
+direction:across
+length:4
+position:x:0,y:10
+solution:DOME
+
+new clue
+number:22
+clue:Dated wearing hair in fringes, they say (10)
+direction:across
+length:10
+position:x:5,y:10
+solution:TRESPASSES
+
+new clue
+number:25
+clue:A child of necessity is given to falsehood (9)
+direction:across
+length:9
+position:x:0,y:12
+solution:INVENTION
+
+new clue
+number:26
+clue:Key-hole to peep through, say (5)
+direction:across
+length:5
+position:x:10,y:12
+solution:ISLET
+
+new clue
+number:27
+clue:A woman's daily round (5)
+direction:across
+length:5
+position:x:0,y:14
+solution:LYDIA
+
+new clue
+number:28
+clue:After a turnaround, one's trade boomed (9)
+direction:across
+length:9
+position:x:6,y:14
+solution:RESONATED
+
+new clue
+number:1
+clue:£1,000 fine (5)
+direction:down
+length:5
+position:x:0,y:0
+solution:GRAND
+
+new clue
+number:2
+clue:Mobilised unit prior to invasion (9)
+direction:down
+length:9
+position:x:2,y:0
+solution:IRRUPTION
+
+new clue
+number:3
+clue:In disarray as regiment starts shooting (10)
+direction:down
+length:10
+position:x:4,y:0
+solution:GERMINATES
+
+new clue
+number:4
+clue:Thorpe deserted by Goldsmith (7)
+direction:down
+length:7
+position:x:6,y:0
+solution:VILLAGE
+
+new clue
+number:5
+clue:Athletic shoots? (7)
+direction:down
+length:7
+position:x:8,y:0
+solution:RUNNERS
+
+new clue
+number:6
+clue:A crushing blow for the party (4)
+direction:down
+length:4
+position:x:10,y:0
+solution:BASH
+
+new clue
+number:7
+clue:Canoodle in the wood (5)
+direction:down
+length:5
+position:x:12,y:0
+solution:SPOON
+
+new clue
+number:8
+clue:The Duke? His Grace may be free (9)
+direction:down
+length:9
+position:x:14,y:0
+solution:DISCHARGE
+
+new clue
+number:13
+clue:Book the party (10)
+direction:down
+length:10
+position:x:10,y:5
+solution:PERSUASION
+
+new clue
+number:14
+clue:Exercises below deck given in punishment (4-5)
+direction:down
+length:9
+position:x:0,y:6
+solution:PACKDRILL
+
+new clue
+number:16
+clue:Kiss briefly after Wine &amp; Cheese (4,5)
+direction:down
+length:9
+position:x:12,y:6
+solution:PORTSALUT
+
+new clue
+number:18
+clue:Hanger-on arrives - rank outsider (7)
+direction:down
+length:7
+position:x:6,y:8
+solution:TARRIER
+
+new clue
+number:19
+clue:Objects to topless shows (7)
+direction:down
+length:7
+position:x:8,y:8
+solution:RESENTS
+
+new clue
+number:21
+clue:Translated as "touched" (5)
+direction:down
+length:5
+position:x:2,y:10
+solution:MOVED
+
+new clue
+number:23
+clue:Having spoken with vision, is accorded a position (5)
+direction:down
+length:5
+position:x:14,y:10
+solution:SITED
+
+new clue
+number:24
+clue:A newborn and at last a girl (4)
+direction:down
+length:4
+position:x:4,y:11
+solution:ANNA

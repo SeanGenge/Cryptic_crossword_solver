@@ -1,0 +1,256 @@
+size:15
+new clue
+number:1
+clue:Paul, lecturer to criminals? (6)
+direction:across
+length:6
+position:x:0,y:0
+solution:CONDON
+
+new clue
+number:4
+clue:Paul, royally attired? (7)
+direction:across
+length:7
+position:x:8,y:0
+solution:ROBESON
+
+new clue
+number:9
+clue:An element of ruin, 'coz I'm reckless (9)
+direction:across
+length:9
+position:x:0,y:2
+solution:ZIRCONIUM
+
+new clue
+number:10
+clue:Catcall of Woody Allen's ex losing distant right (5)
+direction:across
+length:5
+position:x:10,y:2
+solution:MIAOW
+
+new clue
+number:11
+clue:Pleasant accommodating Oriental relative (5)
+direction:across
+length:5
+position:x:0,y:4
+solution:NIECE
+
+new clue
+number:12
+clue:All 9 I refined after many, many years (9)
+direction:across
+length:9
+position:x:6,y:4
+solution:MILLENNIA
+
+new clue
+number:13
+clue:Karaoke's ultimate "My Way" bound to show emo-tional understanding (7)
+direction:across
+length:7
+position:x:0,y:6
+solution:EMPATHY
+
+new clue
+number:15
+clue:This should be comfortable for the solver? (6)
+direction:across
+length:6
+position:x:8,y:6
+solution:SETTEE
+
+new clue
+number:17
+clue:Toothy comedian? (6)
+direction:across
+length:6
+position:x:1,y:8
+solution:WISDOM
+
+new clue
+number:19
+clue:Worthy of reverence, as no longer so lazy? (7)
+direction:across
+length:7
+position:x:8,y:8
+solution:BLESSED
+
+new clue
+number:22
+clue:Lords are poetical, longing over Paul (9)
+direction:across
+length:9
+position:x:0,y:10
+solution:MCCARTNEY
+
+new clue
+number:24
+clue:The Spanish and French end could be spritely? (5)
+direction:across
+length:5
+position:x:10,y:10
+solution:ELFIN
+
+new clue
+number:26
+clue:Shock one of me out loud (5)
+direction:across
+length:5
+position:x:0,y:12
+solution:APPAL
+
+new clue
+number:27
+clue:Paul needs case - going abroad (9)
+direction:across
+length:9
+position:x:6,y:12
+solution:GASCOIGNE
+
+new clue
+number:28
+clue:Implies everyone used gets abused (7)
+direction:across
+length:7
+position:x:0,y:14
+solution:ALLUDES
+
+new clue
+number:29
+clue:First service and where not to put it when returned suggests this game (6)
+direction:across
+length:6
+position:x:9,y:14
+solution:TENNIS
+
+new clue
+number:1
+clue:Paul verbally quotes a Bronte (7)
+direction:down
+length:7
+position:x:0,y:0
+solution:CEZANNE
+
+new clue
+number:2
+clue:Bottle which transmits message (5)
+direction:down
+length:5
+position:x:2,y:0
+solution:NERVE
+
+new clue
+number:3
+clue:None stood around and no one stood around (2,4,3)
+direction:down
+length:9
+position:x:4,y:0
+solution:ONONESTOD
+
+new clue
+number:4
+clue:Discovers deep resonant sounds (7)
+direction:down
+length:7
+position:x:8,y:0
+solution:RUMBLES
+
+new clue
+number:5
+clue:Sweet sweaty smell given honour (5)
+direction:down
+length:5
+position:x:10,y:0
+solution:BOMBE
+
+new clue
+number:6
+clue:Lest a sin's done without it? (9)
+direction:down
+length:9
+position:x:12,y:0
+solution:STAINLESS
+
+new clue
+number:7
+clue:Paul, domestically enlightened? (6)
+direction:down
+length:6
+position:x:14,y:0
+solution:NEWMAN
+
+new clue
+number:8
+clue:Consternation at sweet potatoes I'd brought up (6)
+direction:down
+length:6
+position:x:6,y:1
+solution:DISMAY
+
+new clue
+number:14
+clue:The first moral we're told (9)
+direction:down
+length:9
+position:x:2,y:6
+solution:PRINCIPAL
+
+new clue
+number:16
+clue:Expression of sympathy yelled on course, thus (9)
+direction:down
+length:9
+position:x:10,y:6
+solution:THEREFORE
+
+new clue
+number:18
+clue:Copes with the reason for our mortality? (7)
+direction:down
+length:7
+position:x:6,y:8
+solution:MANAGES
+
+new clue
+number:19
+clue:Lout upset with his problems as a youth (6)
+direction:down
+length:6
+position:x:8,y:8
+solution:BOYISH
+
+new clue
+number:20
+clue:Paul leads in trickery? (7)
+direction:down
+length:7
+position:x:14,y:8
+solution:DANIELS
+
+new clue
+number:21
+clue:Paul's friend, a horny beast? (6)
+direction:down
+length:6
+position:x:0,y:9
+solution:IMPALA
+
+new clue
+number:23
+clue:Governed as sporting union governed (5)
+direction:down
+length:5
+position:x:4,y:10
+solution:RULED
+
+new clue
+number:25
+clue:Dickens character portrayed as Andy Capp? (5)
+direction:down
+length:5
+position:x:12,y:10
+solution:FAGIN

@@ -1,0 +1,224 @@
+size:15
+new clue
+number:1
+clue:Recoil from two similar cats (8)
+direction:across
+length:8
+position:x:0,y:0
+solution:WHIPLASH
+
+new clue
+number:5
+clue:Study marvellous discussion (6)
+direction:across
+length:6
+position:x:9,y:0
+solution:CONFAB
+
+new clue
+number:9
+clue:Scrambled early goal, after missing a significant part of the play? (8)
+direction:across
+length:8
+position:x:0,y:2
+solution:ALLEGORY
+
+new clue
+number:10
+clue:Vital force in Spanish port, an ancient city (6)
+direction:across
+length:6
+position:x:9,y:2
+solution:VIGOUR
+
+new clue
+number:12
+clue:Slight variation of a dance (5)
+direction:across
+length:5
+position:x:0,y:4
+solution:TWIST
+
+new clue
+number:13
+clue:Eking out fodder stored in desperate situation (5-4)
+direction:across
+length:9
+position:x:6,y:4
+solution:KNIFEEDGE
+
+new clue
+number:14
+clue:Hunt film role that's unusual, or ordinary? (3-2-3-4)
+direction:across
+length:12
+position:x:3,y:6
+solution:RUNOFTHEMILL
+
+new clue
+number:18
+clue:Non-rigid structure for climbing plant (6,6)
+direction:across
+length:12
+position:x:0,y:8
+solution:JACOBSLADDER
+
+new clue
+number:21
+clue:Announcement posing threat to the Opposition? (6-3)
+direction:across
+length:9
+position:x:0,y:10
+solution:BATTLECRY
+
+new clue
+number:23
+clue:Show great glee with new headgear (5)
+direction:across
+length:5
+position:x:10,y:10
+solution:CROWN
+
+new clue
+number:24
+clue:Expose a French medium with 25 (6)
+direction:across
+length:6
+position:x:0,y:12
+solution:UNMASK
+
+new clue
+number:25
+clue:What can be popped in to grill? (8)
+direction:across
+length:8
+position:x:7,y:12
+solution:QUESTION
+
+new clue
+number:26
+clue:Provoke me to leave meeting I backed (6)
+direction:across
+length:6
+position:x:0,y:14
+solution:IGNITE
+
+new clue
+number:27
+clue:Arab staying here should see to his mates! (8)
+direction:across
+length:8
+position:x:7,y:14
+solution:STUDFARM
+
+new clue
+number:1
+clue:Artist enters with something insubstantial (6)
+direction:down
+length:6
+position:x:0,y:0
+solution:WRAITH
+
+new clue
+number:2
+clue:Some ornamental work is so fashionable, face up to it! (6)
+direction:down
+length:6
+position:x:2,y:0
+solution:INLAID
+
+new clue
+number:3
+clue:Shining example of current usage (5,4)
+direction:down
+length:9
+position:x:4,y:0
+solution:LIGHTBULB
+
+new clue
+number:4
+clue:Small fortune, maybe - earned from a hit? (6,2,4)
+direction:down
+length:12
+position:x:6,y:0
+solution:STROKEOFLUCK
+
+new clue
+number:6
+clue:Express belief in old deal (5)
+direction:down
+length:5
+position:x:10,y:0
+solution:OPINE
+
+new clue
+number:7
+clue:A lot of liquid drunk, with beams all round! (8)
+direction:down
+length:8
+position:x:12,y:0
+solution:FLOODLIT
+
+new clue
+number:8
+clue:Where knocking's called for, with doorbell out of order (8)
+direction:down
+length:8
+position:x:14,y:0
+solution:BORDELLO
+
+new clue
+number:11
+clue:Buff envelope with vital contents? (8,4)
+direction:down
+length:12
+position:x:8,y:3
+solution:BIRTHDAYSUIT
+
+new clue
+number:15
+clue:Tried to get fit, given cause for concern (9)
+direction:down
+length:9
+position:x:10,y:6
+solution:EXERCISED
+
+new clue
+number:16
+clue:Sail out to support daughter, one in African capital (8)
+direction:down
+length:8
+position:x:0,y:7
+solution:DJIBOUTI
+
+new clue
+number:17
+clue:Surname starting Mac's not unusual for me (8)
+direction:down
+length:8
+position:x:2,y:7
+solution:SCOTSMAN
+
+new clue
+number:19
+clue:Leave with prima donna - lady who appeared in 11 (6)
+direction:down
+length:6
+position:x:12,y:9
+solution:GODIVA
+
+new clue
+number:20
+clue:Someone unknown working among many in difficulty (6)
+direction:down
+length:6
+position:x:14,y:9
+solution:ANONYM
+
+new clue
+number:22
+clue:Be inclined to discuss this composer (5)
+direction:down
+length:5
+position:x:4,y:10
+solution:LISZT

@@ -1,0 +1,224 @@
+size:15
+new clue
+number:9
+clue:It's fairly hot, yet sometimes chilly, they say (9)
+direction:across
+length:9
+position:x:0,y:1
+solution:REDPEPPER
+
+new clue
+number:10
+clue:Take out part-timer, a secretary bird (5)
+direction:across
+length:5
+position:x:10,y:1
+solution:ERASE
+
+new clue
+number:11
+clue:The thinner first-class accent (7)
+direction:across
+length:7
+position:x:0,y:3
+solution:ACETONE
+
+new clue
+number:12
+clue:Come to know the foreign set-up in 10's development (7)
+direction:across
+length:7
+position:x:8,y:3
+solution:REALISE
+
+new clue
+number:13
+clue:Mr Park? (4)
+direction:across
+length:4
+position:x:0,y:5
+solution:HYDE
+
+new clue
+number:14
+clue:Adopt an attitude about powder overdose? It helps to get the message home (10)
+direction:across
+length:10
+position:x:5,y:5
+solution:POSTALCODE
+
+new clue
+number:15
+clue:Macho character cried for Arthur, the poet (7)
+direction:across
+length:7
+position:x:0,y:7
+solution:RIMBAUD
+
+new clue
+number:17
+clue:Put the case set in place (7)
+direction:across
+length:7
+position:x:8,y:7
+solution:POSITED
+
+new clue
+number:19
+clue:Is Helen bound over to be free of obligation? (10)
+direction:across
+length:10
+position:x:0,y:9
+solution:UNBEHOLDEN
+
+new clue
+number:22
+clue:Swift Nellie? (4)
+direction:across
+length:4
+position:x:11,y:9
+solution:DEAN
+
+new clue
+number:23
+clue:The new free love bar in the Big Apple? (7)
+direction:across
+length:7
+position:x:0,y:11
+solution:NOVELTY
+
+new clue
+number:24
+clue:Take advantage of a bold stroke (7)
+direction:across
+length:7
+position:x:8,y:11
+solution:EXPLOIT
+
+new clue
+number:26
+clue:Char, they say, is the Playboy writer (5)
+direction:across
+length:5
+position:x:0,y:13
+solution:SYNGE
+
+new clue
+number:27
+clue:Lewd clues, set to entrap 3 (9)
+direction:across
+length:9
+position:x:6,y:13
+solution:LECHEROUS
+
+new clue
+number:1
+clue:Perfidious state when skin problem absorbs 3 (American) all covered in braid (15)
+direction:down
+length:15
+position:x:0,y:0
+solution:TREACHEROUSNESS
+
+new clue
+number:2
+clue:Swell finish to middle jump for rider (8)
+direction:down
+length:8
+position:x:2,y:0
+solution:ADDENDUM
+
+new clue
+number:3
+clue:The Ideal woman's circle (4)
+direction:down
+length:4
+position:x:4,y:0
+solution:HERO
+
+new clue
+number:4
+clue:3, cased by recidivist pickpockets, has gone pear-shaped (8)
+direction:down
+length:8
+position:x:6,y:0
+solution:SPHEROID
+
+new clue
+number:5
+clue:Ironic nonsense may bring the house down (6)
+direction:down
+length:6
+position:x:8,y:0
+solution:DRYROT
+
+new clue
+number:6
+clue:Charles, 'e went crazy for a classical 3 (8)
+direction:down
+length:8
+position:x:10,y:0
+solution:HERACLES
+
+new clue
+number:7
+clue:About a serious offence round a hazardous place (6)
+direction:down
+length:6
+position:x:12,y:0
+solution:CASINO
+
+new clue
+number:8
+clue:For Sisyphus, it's just the job (15)
+direction:down
+length:15
+position:x:14,y:0
+solution:NEVERENDINGTASK
+
+new clue
+number:16
+clue:This 3 got cold in a surging sea (8)
+direction:down
+length:8
+position:x:4,y:7
+solution:ACHILLES
+
+new clue
+number:17
+clue:Bearing gifts carelessly addressed? (8)
+direction:down
+length:8
+position:x:8,y:7
+solution:PRESENCE
+
+new clue
+number:18
+clue:Maybe Rex and 3 at school found a dinosaur (8)
+direction:down
+length:8
+position:x:12,y:7
+solution:THEROPOD
+
+new clue
+number:20
+clue:Sort of setter embracing 6? Stupid! (6)
+direction:down
+length:6
+position:x:2,y:9
+solution:BOVINE
+
+new clue
+number:21
+clue:See a 'oly confused Jesuit (6)
+direction:down
+length:6
+position:x:6,y:9
+solution:LOYOLA
+
+new clue
+number:25
+clue:Look at hold up (4)
+direction:down
+length:4
+position:x:10,y:11
+solution:PEEK

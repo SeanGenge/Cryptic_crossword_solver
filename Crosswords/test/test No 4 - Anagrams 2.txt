@@ -1,0 +1,64 @@
+size:7
+new clue
+number:1
+clue:To do this would upset teach (5)
+direction:across
+length:5
+position:x:0,y:0
+solution:cheat
+new clue
+number:3
+clue:Lee messed around with fish (3)
+direction:across
+length:3
+position:x:4,y:1
+solution:eel
+new clue
+number:6
+clue:Largely confused with a rash (7)
+direction:across
+length:7
+position:x:0,y:3
+solution:allergy
+new clue
+number:7
+clue:Tea is used for this application (3)
+direction:across
+length:3
+position:x:0,y:5
+solution:eat
+new clue
+number:8
+clue:Nigel used marbles (5)
+direction:across
+length:5
+position:x:2,y:6
+solution:elgin
+new clue
+number:1
+clue:Pea can be made into an appetizer (6)
+direction:down
+length:6
+position:x:0,y:0
+solution:canape
+new clue
+number:2
+clue:Rates make be bring these to my eyes (5)
+direction:down
+length:5
+position:x:4,y:0
+solution:tears
+new clue
+number:4
+clue:A manly sort but still a novice (6)
+direction:down
+length:6
+position:x:6,y:1
+solution:layman
+new clue
+number:5
+clue:Petal serves up my dinner on it (5)
+direction:down
+length:5
+position:x:2,y:2
+solution:plate

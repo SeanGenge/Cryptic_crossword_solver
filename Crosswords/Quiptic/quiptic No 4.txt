@@ -1,0 +1,224 @@
+size:15
+new clue
+number:9
+clue:Feature a model offering (9)
+direction:across
+length:9
+position:x:0,y:1
+solution:ATTRIBUTE
+
+new clue
+number:10
+clue:City in salami land (5)
+direction:across
+length:5
+position:x:10,y:1
+solution:MILAN
+
+new clue
+number:11
+clue:Auld tea mashed is flatter (7)
+direction:across
+length:7
+position:x:0,y:3
+solution:ADULATE
+
+new clue
+number:12
+clue:Adore? I'd love Liz up to a point (7)
+direction:across
+length:7
+position:x:8,y:3
+solution:IDOLIZE
+
+new clue
+number:13
+clue:Villain! I take a turn (4)
+direction:across
+length:4
+position:x:0,y:5
+solution:IAGO
+
+new clue
+number:14
+clue:Generous Frenchman takes one of his, if I add cent (10)
+direction:across
+length:10
+position:x:5,y:5
+solution:MUNIFICENT
+
+new clue
+number:15
+clue:Repeat confusing tea rite (7)
+direction:across
+length:7
+position:x:0,y:7
+solution:ITERATE
+
+new clue
+number:17
+clue:Kill manager after losing four (7)
+direction:across
+length:7
+position:x:8,y:7
+solution:EXECUTE
+
+new clue
+number:19
+clue:Quarantine flag for cowardly sailor (6,4)
+direction:across
+length:10
+position:x:0,y:9
+solution:YELLOWJACK
+
+new clue
+number:22
+clue:Sink zero pudding? (4)
+direction:across
+length:4
+position:x:11,y:9
+solution:SAGO
+
+new clue
+number:23
+clue:Wetter for a prince in Monaco (7)
+direction:across
+length:7
+position:x:0,y:11
+solution:RAINIER
+
+new clue
+number:24
+clue:Checkpoint operated for old soldier (7)
+direction:across
+length:7
+position:x:8,y:11
+solution:VETERAN
+
+new clue
+number:26
+clue:In which place we run round her (5)
+direction:across
+length:5
+position:x:0,y:13
+solution:WHERE
+
+new clue
+number:27
+clue:Spreading sixteen wildly: very English! (9)
+direction:across
+length:9
+position:x:6,y:13
+solution:EXTENSIVE
+
+new clue
+number:1
+clue:Gardener has potential to colour (10,5)
+direction:down
+length:15
+position:x:0,y:0
+solution:CAPABILITYBROWN
+
+new clue
+number:2
+clue:Stumped buy law about horse going into battle (8)
+direction:down
+length:8
+position:x:2,y:0
+solution:STRUGGLE
+
+new clue
+number:3
+clue:Prima donna is avid to return (4)
+direction:down
+length:4
+position:x:4,y:0
+solution:DIVA
+
+new clue
+number:4
+clue:Due quite strangely to peacefulness (8)
+direction:down
+length:8
+position:x:6,y:0
+solution:QUIETUDE
+
+new clue
+number:5
+clue:Twins get precious stone in one (6)
+direction:down
+length:6
+position:x:8,y:0
+solution:GEMINI
+
+new clue
+number:6
+clue:I'm courteous but rude (8)
+direction:down
+length:8
+position:x:10,y:0
+solution:IMPOLITE
+
+new clue
+number:7
+clue:Girl finds resting place in church (6)
+direction:down
+length:6
+position:x:12,y:0
+solution:CLAIRE
+
+new clue
+number:8
+clue:Below the  long table, where illicit goods are kept (5,3,7)
+direction:down
+length:15
+position:x:14,y:0
+solution:UNDERTHECOUNTER
+
+new clue
+number:16
+clue:Spray article to Scrooge (8)
+direction:down
+length:8
+position:x:4,y:7
+solution:ATOMISER
+
+new clue
+number:17
+clue:Dig up previous partner and vacate improperly (8)
+direction:down
+length:8
+position:x:8,y:7
+solution:EXCAVATE
+
+new clue
+number:18
+clue:Fearless about United Nations combining with a French attack (8)
+direction:down
+length:8
+position:x:12,y:7
+solution:UNAFRAID
+
+new clue
+number:20
+clue:Dawdle around East Tirol (6)
+direction:down
+length:6
+position:x:2,y:9
+solution:LOITER
+
+new clue
+number:21
+clue:Island jumper (6)
+direction:down
+length:6
+position:x:6,y:9
+solution:JERSEY
+
+new clue
+number:25
+clue:A madman comes up for fish (4)
+direction:down
+length:4
+position:x:10,y:11
+solution:TUNA

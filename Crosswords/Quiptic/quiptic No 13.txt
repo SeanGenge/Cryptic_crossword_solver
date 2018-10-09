@@ -1,0 +1,224 @@
+size:15
+new clue
+number:1
+clue:Extras: unusual gifts must have been finer? (6,8)
+direction:across
+length:14
+position:x:0,y:0
+solution:FRINGEBENEFITS
+
+new clue
+number:9
+clue:Don't vote for sailor with moral taint (7)
+direction:across
+length:7
+position:x:0,y:2
+solution:ABSTAIN
+
+new clue
+number:10
+clue:Poor Ted rebuilt underwater missile (7)
+direction:across
+length:7
+position:x:8,y:2
+solution:TORPEDO
+
+new clue
+number:11
+clue:One in hat meets another one where Port-au-Prince is (5)
+direction:across
+length:5
+position:x:0,y:4
+solution:HAITI
+
+new clue
+number:12
+clue:Don't upset this street vendor's barrow (5-4)
+direction:across
+length:9
+position:x:6,y:4
+solution:APPLECART
+
+new clue
+number:13
+clue:Indispensable assistant makes correct offer (5,4)
+direction:across
+length:9
+position:x:0,y:6
+solution:RIGHTHAND
+
+new clue
+number:14
+clue:Oil of turning leaf (5)
+direction:across
+length:5
+position:x:10,y:6
+solution:FOLIO
+
+new clue
+number:15
+clue:He composed part of "Squirrel Garden" (5)
+direction:across
+length:5
+position:x:0,y:8
+solution:ELGAR
+
+new clue
+number:17
+clue:British government's spotless foyer (9)
+direction:across
+length:9
+position:x:6,y:8
+solution:WHITEHALL
+
+new clue
+number:20
+clue:About extending speech for the East, for example (9)
+direction:across
+length:9
+position:x:0,y:10
+solution:DIRECTION
+
+new clue
+number:22
+clue:Mix up gruel with this pistol (5)
+direction:across
+length:5
+position:x:10,y:10
+solution:LUGER
+
+new clue
+number:23
+clue:Most tidy swallow in the nest (7)
+direction:across
+length:7
+position:x:0,y:12
+solution:NEATEST
+
+new clue
+number:24
+clue:His turn to become undersized? (7)
+direction:across
+length:7
+position:x:8,y:12
+solution:RUNTISH
+
+new clue
+number:25
+clue:Remain cheerful as when shaving (4,4,4,2)
+direction:across
+length:14
+position:x:1,y:14
+solution:KEEPONESCHINUP
+
+new clue
+number:1
+clue:Give quill to person embracing divine protection (14)
+direction:down
+length:14
+position:x:0,y:0
+solution:FEATHERBEDDING
+
+new clue
+number:2
+clue:Is taking out writ as a result of publication! (7)
+direction:down
+length:7
+position:x:2,y:0
+solution:ISSUING
+
+new clue
+number:3
+clue:Professional combatant making a dog trail (9)
+direction:down
+length:9
+position:x:4,y:0
+solution:GLADIATOR
+
+new clue
+number:4
+clue:Square for head of daughter halving fruit (7)
+direction:down
+length:7
+position:x:6,y:0
+solution:BANDANA
+
+new clue
+number:5
+clue:Be drowsy when holding up a favourite jotter (7)
+direction:down
+length:7
+position:x:8,y:0
+solution:NOTEPAD
+
+new clue
+number:6
+clue:Nearly forget the blacksmith's shop (5)
+direction:down
+length:5
+position:x:10,y:0
+solution:FORGE
+
+new clue
+number:7
+clue:Elation dispelled by chiropodist's target (7)
+direction:down
+length:7
+position:x:12,y:0
+solution:TOENAIL
+
+new clue
+number:8
+clue:Manager's office keeps indefinite number in bed before vessel goes under wave (14)
+direction:down
+length:14
+position:x:14,y:1
+solution:CONTROLLERSHIP
+
+new clue
+number:14
+clue:I'm not charged for jest about dance at church (4,5)
+direction:down
+length:9
+position:x:10,y:6
+solution:FREELUNCH
+
+new clue
+number:16
+clue:Useless information: front of bus seen in garage (7)
+direction:down
+length:7
+position:x:2,y:8
+solution:GARBAGE
+
+new clue
+number:17
+clue:Set down a bird, keeping it on time (7)
+direction:down
+length:7
+position:x:6,y:8
+solution:WRITTEN
+
+new clue
+number:18
+clue:In improper regions you'll get cold shoulders (7)
+direction:down
+length:7
+position:x:8,y:8
+solution:IGNORES
+
+new clue
+number:19
+clue:A no-good pin-up of an ancient race (7)
+direction:down
+length:7
+position:x:12,y:8
+solution:ANGLIAN
+
+new clue
+number:21
+clue:Inch is equal to another with a hundred up (5)
+direction:down
+length:5
+position:x:4,y:10
+solution:CREEP

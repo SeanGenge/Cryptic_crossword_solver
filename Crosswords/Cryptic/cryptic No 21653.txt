@@ -1,0 +1,224 @@
+size:15
+new clue
+number:8
+clue:Unlimited affection? (4,4)
+direction:across
+length:8
+position:x:0,y:1
+solution:FREELOVE
+
+new clue
+number:9
+clue:A good bet suggested to relatives as some protection (6)
+direction:across
+length:6
+position:x:9,y:1
+solution:NAPKIN
+
+new clue
+number:10
+clue:Legislative measures followed by Romans (4)
+direction:across
+length:4
+position:x:0,y:3
+solution:ACTS
+
+new clue
+number:11
+clue:Prudently involved the city elders (10)
+direction:across
+length:10
+position:x:5,y:3
+solution:DISCREETLY
+
+new clue
+number:12
+clue:The opposite of a sun bonnet? (6)
+direction:across
+length:6
+position:x:0,y:5
+solution:ICECAP
+
+new clue
+number:14
+clue:Criterion followed by a cavalry regiment (8)
+direction:across
+length:8
+position:x:7,y:5
+solution:STANDARD
+
+new clue
+number:15
+clue:Rowdy clients cut by the typist (7)
+direction:across
+length:7
+position:x:0,y:7
+solution:STENCIL
+
+new clue
+number:17
+clue:A second order of clergy (7)
+direction:across
+length:7
+position:x:8,y:7
+solution:DEACONS
+
+new clue
+number:20
+clue:Sailors in the drink (8)
+direction:across
+length:8
+position:x:0,y:9
+solution:ABSINTHE
+
+new clue
+number:22
+clue:One takes no end of cash in here, finishing with nothing (6)
+direction:across
+length:6
+position:x:9,y:9
+solution:CASINO
+
+new clue
+number:23
+clue:Well-known way in which Christmas is enjoyed (10)
+direction:across
+length:10
+position:x:0,y:11
+solution:CELEBRATED
+
+new clue
+number:24
+clue:Period of time - spring, for example (4)
+direction:across
+length:4
+position:x:11,y:11
+solution:TIDE
+
+new clue
+number:25
+clue:Thanks to foreigners, a bit of old England (6)
+direction:across
+length:6
+position:x:0,y:13
+solution:MERCIA
+
+new clue
+number:26
+clue:In which to store clothes they've grown out of? (8)
+direction:across
+length:8
+position:x:7,y:13
+solution:TALLBOYS
+
+new clue
+number:1
+clue:Result of dropping the charge? (5,3)
+direction:down
+length:8
+position:x:1,y:0
+solution:PRICECUT
+
+new clue
+number:2
+clue:An outstanding part of the country (4)
+direction:down
+length:4
+position:x:3,y:0
+solution:NESS
+
+new clue
+number:3
+clue:Delay that gives serious offence (4,2)
+direction:down
+length:6
+position:x:5,y:0
+solution:HOLDUP
+
+new clue
+number:4
+clue:Press it, rudely and obstinately? (7)
+direction:down
+length:7
+position:x:7,y:0
+solution:PERSIST
+
+new clue
+number:5
+clue:Swell position for a batsman (8)
+direction:down
+length:8
+position:x:9,y:0
+solution:INCREASE
+
+new clue
+number:6
+clue:Writers' additions? They may be taken out in the theatre (10)
+direction:down
+length:10
+position:x:11,y:0
+solution:APPENDICES
+
+new clue
+number:7
+clue:He finishes off the game with the queen (6)
+direction:down
+length:6
+position:x:13,y:0
+solution:KILLER
+
+new clue
+number:13
+clue:Shared secret belief (10)
+direction:down
+length:10
+position:x:3,y:5
+solution:CONFIDENCE
+
+new clue
+number:16
+clue:New form of travel in space (8)
+direction:down
+length:8
+position:x:5,y:7
+solution:INTERVAL
+
+new clue
+number:18
+clue:Time for wonder (4,4)
+direction:down
+length:8
+position:x:13,y:7
+solution:NINEDAYS
+
+new clue
+number:19
+clue:Willing to try a new blend of tea (7)
+direction:down
+length:7
+position:x:7,y:8
+solution:TESTATE
+
+new clue
+number:21
+clue:His produce is dispensed at local pumps (6)
+direction:down
+length:6
+position:x:1,y:9
+solution:BREWER
+
+new clue
+number:22
+clue:Hold in close affection (6)
+direction:down
+length:6
+position:x:9,y:9
+solution:CUDDLE
+
+new clue
+number:24
+clue:Save up to get a brass instrument (4)
+direction:down
+length:4
+position:x:11,y:11
+solution:TUBA

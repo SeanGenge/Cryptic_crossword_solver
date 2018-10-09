@@ -1,0 +1,224 @@
+size:15
+new clue
+number:1
+clue:Spy scattering clues in very small quantities (9)
+direction:across
+length:9
+position:x:0,y:0
+solution:MOLECULES
+
+new clue
+number:6
+clue:Palmerston on southern food (4)
+direction:across
+length:4
+position:x:11,y:0
+solution:SPAM
+
+new clue
+number:10
+clue:Sounds like the downfall of rule (5)
+direction:across
+length:5
+position:x:0,y:2
+solution:REIGN
+
+new clue
+number:11
+clue:Angry on account of bird? (9)
+direction:across
+length:9
+position:x:6,y:2
+solution:CROSSBILL
+
+new clue
+number:12
+clue:Place for hamster training (7)
+direction:across
+length:7
+position:x:0,y:4
+solution:AMHERST
+
+new clue
+number:13
+clue:Shorn animal having to cut back on fat (7)
+direction:across
+length:7
+position:x:8,y:4
+solution:POLLARD
+
+new clue
+number:14
+clue:What to expect from ecclesiastical tennis player? (6,7)
+direction:across
+length:13
+position:x:0,y:6
+solution:DIVINESERVICE
+
+new clue
+number:17
+clue:Prepared firm to proceed with racial orders? (5,6,2)
+direction:across
+length:13
+position:x:2,y:8
+solution:READYSTEADYGO
+
+new clue
+number:21
+clue:Ship that operates below the surface? (7)
+direction:across
+length:7
+position:x:0,y:10
+solution:COLLIER
+
+new clue
+number:22
+clue:Riveting term for trophy lid, perhaps (7)
+direction:across
+length:7
+position:x:8,y:10
+solution:CUPHEAD
+
+new clue
+number:24
+clue:Fabulous green lady apparition (9)
+direction:across
+length:9
+position:x:0,y:12
+solution:LEGENDARY
+
+new clue
+number:25
+clue:Block found in Roman villa (5)
+direction:across
+length:5
+position:x:10,y:12
+solution:ANVIL
+
+new clue
+number:26
+clue:Point to the unruly son of Adam (4)
+direction:across
+length:4
+position:x:0,y:14
+solution:SETH
+
+new clue
+number:27
+clue:Half a day to construct a drain for one-stamened plants (9)
+direction:across
+length:9
+position:x:6,y:14
+solution:MONANDRIA
+
+new clue
+number:1
+clue:Sea creatures that may well disarm me (8)
+direction:down
+length:8
+position:x:0,y:0
+solution:MERMAIDS
+
+new clue
+number:2
+clue:Where the French hit out (5)
+direction:down
+length:5
+position:x:2,y:0
+solution:LEITH
+
+new clue
+number:3
+clue:Clashes arising from study on abbreviated French notations, perhaps? (14)
+direction:down
+length:14
+position:x:4,y:0
+solution:CONFRONTATIONS
+
+new clue
+number:4
+clue:Finds cat in sole possession, perhaps (7)
+direction:down
+length:7
+position:x:6,y:0
+solution:LOCATES
+
+new clue
+number:5
+clue:Defender who may get it in the neck (7)
+direction:down
+length:7
+position:x:8,y:0
+solution:STOPPER
+
+new clue
+number:7
+clue:Trip round museum and cathedral in secret? (9)
+direction:down
+length:9
+position:x:12,y:0
+solution:PRIVATELY
+
+new clue
+number:8
+clue:To a degree, a female illness (6)
+direction:down
+length:6
+position:x:14,y:0
+solution:MALADY
+
+new clue
+number:9
+clue:Is a plan to be duplicated? Obviously! (2,5,2,5)
+direction:down
+length:14
+position:x:10,y:1
+solution:ASPLAINASPLAIN
+
+new clue
+number:15
+clue:Extremely feeble flare? (4,5)
+direction:down
+length:9
+position:x:2,y:6
+solution:VERYLIGHT
+
+new clue
+number:16
+clue:Blimey! Female cook's a king's daughter (8)
+direction:down
+length:8
+position:x:14,y:7
+solution:CORDELIA
+
+new clue
+number:18
+clue:CID weapon found on board ship (4-3)
+direction:down
+length:7
+position:x:6,y:8
+solution:YARDARM
+
+new clue
+number:19
+clue:Puzzling chat by youth leader on fast particle (7)
+direction:down
+length:7
+position:x:8,y:8
+solution:TACHYON
+
+new clue
+number:20
+clue:Music with piscatorial associations (6)
+direction:down
+length:6
+position:x:0,y:9
+solution:SCALES
+
+new clue
+number:23
+clue:Some novel version of young fish (5)
+direction:down
+length:5
+position:x:12,y:10
+solution:ELVER

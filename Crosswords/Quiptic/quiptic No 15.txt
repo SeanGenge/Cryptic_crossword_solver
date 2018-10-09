@@ -1,0 +1,232 @@
+size:15
+new clue
+number:9
+clue:Chap from Lahore, perhaps
+direction:across
+length:9
+position:x:0,y:1
+solution:PAKISTANI
+
+new clue
+number:10
+clue:Sombre burial place (5)
+direction:across
+length:5
+position:x:10,y:1
+solution:GRAVE
+
+new clue
+number:11
+clue:Impudent talk about a daughter: watch that mouth! (7)
+direction:across
+length:7
+position:x:0,y:3
+solution:LIPREAD
+
+new clue
+number:12
+clue:Married dad puts on rabbit skin for guests (7)
+direction:across
+length:7
+position:x:8,y:3
+solution:COMPANY
+
+new clue
+number:13
+clue:Charming Ullswater provides shelter for seabirds (5)
+direction:across
+length:5
+position:x:0,y:5
+solution:GULLS
+
+new clue
+number:14
+clue:Sloven set to be led astray in romantic hideaways (4-5)
+direction:across
+length:9
+position:x:6,y:5
+solution:LOVENESTS
+
+new clue
+number:16
+clue:Make changes to a militarist, not a completely authoritarian, doctrine (15)
+direction:across
+length:15
+position:x:0,y:7
+solution:TOTALITARIANISM
+
+new clue
+number:19
+clue:Sought opinion of painting, only half-biased (9)
+direction:across
+length:9
+position:x:0,y:9
+solution:CANVASSED
+
+new clue
+number:21
+clue:Incoherently lament losing new gold or silver, maybe (5)
+direction:across
+length:5
+position:x:10,y:9
+solution:METAL
+
+new clue
+number:22
+clue:Unimpeded, from Asia take a flowering plant (7)
+direction:across
+length:7
+position:x:0,y:11
+solution:FREESIA
+
+new clue
+number:23
+clue:Marines drunk in class (7)
+direction:across
+length:7
+position:x:8,y:11
+solution:SEMINAR
+
+new clue
+number:24
+clue:Nitrogen only modified in artificial fibre (5)
+direction:across
+length:5
+position:x:0,y:13
+solution:NYLON
+
+new clue
+number:25
+clue:Sociable type, former vagrant, embraced by teetotaller (9)
+direction:across
+length:9
+position:x:6,y:13
+solution:EXTROVERT
+
+new clue
+number:1
+clue:Regretfully acknowledging fault in a car, get a mechanic finally (10)
+direction:down
+length:10
+position:x:0,y:0
+solution:APOLOGETIC
+
+new clue
+number:2
+clue:"Blue Leader" turns out to be a chaplain (3,5)
+direction:down
+length:8
+position:x:2,y:0
+solution:SKYPILOT
+
+new clue
+number:3
+clue:Colorado town's trees (6)
+direction:down
+length:6
+position:x:4,y:0
+solution:ASPENS
+
+new clue
+number:4
+clue:Pop group is prohibited, we hear (4)
+direction:down
+length:4
+position:x:6,y:0
+solution:BAND
+
+new clue
+number:5
+clue:Found Sid knocked over and under a blanket? (10)
+direction:down
+length:10
+position:x:8,y:0
+solution:DISCOVERED
+
+new clue
+number:6
+clue:In a dreadful state, I manage nothing, exhibiting total self-obsession (8)
+direction:down
+length:8
+position:x:10,y:0
+solution:EGOMANIA
+
+new clue
+number:7
+clue:Sarah returns south -- here comes trouble! (6)
+direction:down
+length:6
+position:x:12,y:0
+solution:HARASS
+
+new clue
+number:8
+clue:Extremely violent, extremely racist youth leaders (4)
+direction:down
+length:4
+position:x:14,y:0
+solution:VERY
+
+new clue
+number:14
+clue:Strangely astute role for indolent sybarite (5-5)
+direction:down
+length:10
+position:x:6,y:5
+solution:LOTUSEATER
+
+new clue
+number:15
+clue:I'm Lisa; I try artfully to produce a likeness (10)
+direction:down
+length:10
+position:x:14,y:5
+solution:SIMILARITY
+
+new clue
+number:17
+clue:Relationships, dangerous in a novel context (8)
+direction:down
+length:8
+position:x:4,y:7
+solution:LIAISONS
+
+new clue
+number:18
+clue:Had in mind a fianc¿ (8)
+direction:down
+length:8
+position:x:12,y:7
+solution:INTENDED
+
+new clue
+number:20
+clue:Require the French to show intense rivalry (6)
+direction:down
+length:6
+position:x:2,y:9
+solution:NEEDLE
+
+new clue
+number:21
+clue:On Monday mother makes lots of filthy money (6)
+direction:down
+length:6
+position:x:10,y:9
+solution:MAMMON
+
+new clue
+number:22
+clue:Female in drag's first to make discovery (4)
+direction:down
+length:4
+position:x:0,y:11
+solution:FIND
+
+new clue
+number:23
+clue:Is it Elizabeth's hiding-place? (4)
+direction:down
+length:4
+position:x:8,y:11
+solution:SITE

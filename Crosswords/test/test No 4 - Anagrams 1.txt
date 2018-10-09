@@ -1,0 +1,78 @@
+size:7
+new clue
+number:1
+clue:Sue sit around and blow your nose in this (6)
+direction:across
+length:6
+position:x:0,y:0
+solution:tissue
+new clue
+number:4
+clue:Strange a sawn dam (5)
+direction:across
+length:5
+position:x:0,y:2
+solution:aswan
+new clue
+number:7
+clue:Untie laces to climb (5)
+direction:across
+length:5
+position:x:2,y:4
+solution:scale
+new clue
+number:9
+clue:C.I.D. Dan turned honest (6)
+direction:across
+length:6
+position:x:1,y:6
+solution:candid
+new clue
+number:1
+clue:A side of mixed meat (4)
+direction:down
+length:4
+position:x:0,y:0
+solution:team
+new clue
+number:2
+clue:Maybe was a cutter (3)
+direction:down
+length:3
+position:x:2,y:0
+solution:saw
+new clue
+number:3
+clue:Run about to get pot (3)
+direction:down
+length:3
+position:x:4,y:0
+solution:urn
+new clue
+number:5
+clue:Car goes round and round (3)
+direction:down
+length:3
+position:x:3,y:2
+solution:arc
+new clue
+number:6
+clue:Over dale and out front (4)
+direction:down
+length:4
+position:x:6,y:3
+solution:lead
+new clue
+number:7
+clue:Pa's been put out to water (3)
+direction:down
+length:3
+position:x:2,y:4
+solution:spa
+new clue
+number:8
+clue:Dan is going also (3)
+direction:down
+length:3
+position:x:4,y:4
+solution:and

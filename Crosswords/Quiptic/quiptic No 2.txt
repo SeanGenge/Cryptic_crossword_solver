@@ -1,0 +1,232 @@
+size:15
+new clue
+number:1
+clue:Support regular feature in newspaper (6)
+direction:across
+length:6
+position:x:1,y:0
+solution:COLUMN
+
+new clue
+number:4
+clue:A political party is hard work (6)
+direction:across
+length:6
+position:x:8,y:0
+solution:LABOUR
+
+new clue
+number:9
+clue:It's right for a Tory (4)
+direction:across
+length:4
+position:x:0,y:2
+solution:WING
+
+new clue
+number:10
+clue:E.g. in a union it shows loyalty (10)
+direction:across
+length:10
+position:x:5,y:2
+solution:ALLEGIANCE
+
+new clue
+number:11
+clue:Out of clothes? (6)
+direction:across
+length:6
+position:x:0,y:4
+solution:UNCLAD
+
+new clue
+number:12
+clue:Warhorses are often attached to batteries (8)
+direction:across
+length:8
+position:x:7,y:4
+solution:CHARGERS
+
+new clue
+number:13
+clue:Untidy crew I sack for flippant remark (9)
+direction:across
+length:9
+position:x:0,y:6
+solution:WISECRACK
+
+new clue
+number:15
+clue:Gathering for a church service (4)
+direction:across
+length:4
+position:x:10,y:6
+solution:MASS
+
+new clue
+number:16
+clue:Cossack dropping lettuce into container (4)
+direction:across
+length:4
+position:x:1,y:8
+solution:SACK
+
+new clue
+number:17
+clue:Long to eat Italian food? (9)
+direction:across
+length:9
+position:x:6,y:8
+solution:SPAGHETTI
+
+new clue
+number:21
+clue:Obvious if father's back with mother, for example (8)
+direction:across
+length:8
+position:x:0,y:10
+solution:APPARENT
+
+new clue
+number:22
+clue:Carl's a spoilt rogue (6)
+direction:across
+length:6
+position:x:9,y:10
+solution:RASCAL
+
+new clue
+number:24
+clue:Cause of food poisoning? It's the fish, girl! (10)
+direction:across
+length:10
+position:x:0,y:12
+solution:SALMONELLA
+
+new clue
+number:25
+clue:A sound return? (4)
+direction:across
+length:4
+position:x:11,y:12
+solution:ECHO
+
+new clue
+number:26
+clue:Not even French is the most unusual (6)
+direction:across
+length:6
+position:x:1,y:14
+solution:ODDEST
+
+new clue
+number:27
+clue:Guide written by newspaper editor (6)
+direction:across
+length:6
+position:x:8,y:14
+solution:LEADER
+
+new clue
+number:1
+clue:I sing about top Italian wine from Tuscany (7)
+direction:down
+length:7
+position:x:1,y:0
+solution:CHIANTI
+
+new clue
+number:2
+clue:Lawful years back in the Fifties (5)
+direction:down
+length:5
+position:x:3,y:0
+solution:LEGAL
+
+new clue
+number:3
+clue:Repair man takes a stroll (7)
+direction:down
+length:7
+position:x:5,y:0
+solution:MEANDER
+
+new clue
+number:5
+clue:Given a note, hand around for hound (6)
+direction:down
+length:6
+position:x:9,y:0
+solution:AFGHAN
+
+new clue
+number:6
+clue:Agreed on a different drink (9)
+direction:down
+length:9
+position:x:11,y:0
+solution:ORANGEADE
+
+new clue
+number:7
+clue:People are always breaking these discs (7)
+direction:down
+length:7
+position:x:13,y:0
+solution:RECORDS
+
+new clue
+number:8
+clue:In which you might write "ballcock is apt to go wrong" (5,8)
+direction:down
+length:13
+position:x:7,y:1
+solution:BLOCKCAPITALS
+
+new clue
+number:14
+clue:Rearranged medical after former wife cried out (9)
+direction:down
+length:9
+position:x:3,y:6
+solution:EXCLAIMED
+
+new clue
+number:16
+clue:Female singer, so quiet musically, ran round (7)
+direction:down
+length:7
+position:x:1,y:8
+solution:SOPRANO
+
+new clue
+number:18
+clue:Rubbish bin's first put in car servicing centre (7)
+direction:down
+length:7
+position:x:9,y:8
+solution:GARBAGE
+
+new clue
+number:19
+clue:Schoolmaster found in class trying to beat each erring schoolboy (7)
+direction:down
+length:7
+position:x:13,y:8
+solution:TEACHER
+
+new clue
+number:20
+clue:Game supervised by a high court judge? (6)
+direction:down
+length:6
+position:x:5,y:9
+solution:TENNIS
+
+new clue
+number:23
+clue:Going rate for amphetamine? (5)
+direction:down
+length:5
+position:x:11,y:10
+solution:SPEED

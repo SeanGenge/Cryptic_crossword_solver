@@ -1,0 +1,192 @@
+size:15
+new clue
+number:8
+clue:An ancient monument - Bunthorne? Strike a light! (8)
+direction:across
+length:8
+position:x:0,y:1
+solution:MEGALITH
+
+new clue
+number:9
+clue:Model going around off the ceiling (6)
+direction:across
+length:6
+position:x:9,y:1
+solution:SOFFIT
+
+new clue
+number:10
+clue:Stern king concealed in a tree (6)
+direction:across
+length:6
+position:x:0,y:3
+solution:BREECH
+
+new clue
+number:11
+clue:Turning revolutionary Unionist into a sheep stealer (8)
+direction:across
+length:8
+position:x:7,y:3
+solution:MARAUDER
+
+new clue
+number:12
+clue:Where our responsibility lies (4)
+direction:across
+length:4
+position:x:0,y:5
+solution:ONUS
+
+new clue
+number:13
+clue:Terrier worrying a minimalist going south (10)
+direction:across
+length:10
+position:x:5,y:5
+solution:MILITIAMAN
+
+new clue
+number:15
+clue:Daisy and her young visiters (sic) catching Euro-star here? (7)
+direction:across
+length:7
+position:x:0,y:7
+solution:ASHFORD
+
+new clue
+number:16
+clue:"and don't have ______ yourself" (Larkin's godless day trip) (3,4)
+direction:across
+length:7
+position:x:8,y:7
+solution:ANYKIDS
+
+new clue
+number:18
+clue:I'd revert to piece-work pay? Tear it up! (10)
+direction:across
+length:10
+position:x:0,y:9
+solution:DILACERATE
+
+new clue
+number:19
+clue:Gary Cooper's refusal to work in Tyneside (4)
+direction:across
+length:4
+position:x:11,y:9
+solution:NOPE
+
+new clue
+number:20
+clue:Plate holder making last run for it! (4,4)
+direction:across
+length:8
+position:x:0,y:11
+solution:STAYBOLT
+
+new clue
+number:22
+clue:Kelly, the painter of family groups (6)
+direction:across
+length:6
+position:x:9,y:11
+solution:GENERA
+
+new clue
+number:23
+clue:Strain of my recouping the job-seekers' allowance (6)
+direction:across
+length:6
+position:x:0,y:13
+solution:MELODY
+
+new clue
+number:24
+clue:Beware of cliques and their idées fixes! (8)
+direction:across
+length:8
+position:x:7,y:13
+solution:MINDSETS
+
+new clue
+number:1
+clue:Want an easy time of it? I'd settle with bankers somehow (4,3,8)
+direction:down
+length:15
+position:x:1,y:0
+solution:BEERANDSKITTLES
+
+new clue
+number:2
+clue:By which Hebraic tears joined Nebuchadnezzar's irrigation system? (6,2,7)
+direction:down
+length:15
+position:x:3,y:0
+solution:WATERSOFBABYLON
+
+new clue
+number:3
+clue:China clay fired with outright reverence (10)
+direction:down
+length:10
+position:x:5,y:0
+solution:LITHOMARGE
+
+new clue
+number:4
+clue:Charity delivered to one's doorstep? (3,4,2,5,8)
+direction:down
+length:7
+position:x:7,y:0
+solution:THEMILK
+
+new clue
+number:5
+clue:Drug addict presumes to climb out of it (4)
+direction:down
+length:4
+position:x:9,y:0
+solution:USER
+
+new clue
+number:6
+clue:See 4
+direction:down
+length:15
+position:x:11,y:0
+solution:OFHUMANKINDNESS
+
+new clue
+number:7
+clue:Drinking partners witness'd in pairs, perhaps (5,3,7)
+direction:down
+length:15
+position:x:13,y:0
+solution:WINESANDSPIRITS
+
+new clue
+number:14
+clue:No tender behind for Thomas! (4,6)
+direction:down
+length:10
+position:x:9,y:5
+solution:TANKENGINE
+
+new clue
+number:17
+clue:Issues a quiet rebuttal as a diversion (7)
+direction:down
+length:7
+position:x:7,y:8
+solution:PASTIME
+
+new clue
+number:21
+clue:Stone nothing cuts by the sound of it (4)
+direction:down
+length:4
+position:x:5,y:11
+solution:ONYX

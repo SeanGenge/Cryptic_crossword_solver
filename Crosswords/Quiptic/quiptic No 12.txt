@@ -1,0 +1,224 @@
+size:15
+new clue
+number:1
+clue:Affected by inflation? Sell now, if confused! (7)
+direction:across
+length:7
+position:x:0,y:0
+solution:SWOLLEN
+
+new clue
+number:5
+clue:Blurts out: adding a note is less obvious (7)
+direction:across
+length:7
+position:x:8,y:0
+solution:SUBTLER
+
+new clue
+number:9
+clue:Responsible for embarrassing outbursts out of sight (6,3,6)
+direction:across
+length:15
+position:x:0,y:2
+solution:BEHINDTHESCENES
+
+new clue
+number:10
+clue:Man hides in animal remains (5)
+direction:across
+length:5
+position:x:0,y:4
+solution:ASHES
+
+new clue
+number:11
+clue:Deeds 'o man brought about her tragic end (9)
+direction:across
+length:9
+position:x:6,y:4
+solution:DESDEMONA
+
+new clue
+number:12
+clue:Waiting for the call (7,2)
+direction:across
+length:9
+position:x:0,y:6
+solution:HOLDINGON
+
+new clue
+number:14
+clue:Fire second before cry of derision (5)
+direction:across
+length:5
+position:x:10,y:6
+solution:SHOOT
+
+new clue
+number:15
+clue:Entrances, sounding like a blonde actress once (5)
+direction:across
+length:5
+position:x:0,y:8
+solution:DOORS
+
+new clue
+number:16
+clue:Pick of the field - compliment takes in many (9)
+direction:across
+length:9
+position:x:6,y:8
+solution:BUTTERCUP
+
+new clue
+number:18
+clue:Temporary abbreviation (5,4)
+direction:across
+length:9
+position:x:0,y:10
+solution:SHORTTERM
+
+new clue
+number:21
+clue:Head off girl turning right on time (5)
+direction:across
+length:5
+position:x:10,y:10
+solution:AVERT
+
+new clue
+number:22
+clue:It sings out when it's time for tea (9,6)
+direction:across
+length:15
+position:x:0,y:12
+solution:WHISTLINGKETTLE
+
+new clue
+number:23
+clue:Surroundings taking shape (7)
+direction:across
+length:7
+position:x:0,y:14
+solution:SETTING
+
+new clue
+number:24
+clue:Ferocious people discovered by a seafarer and others (7)
+direction:across
+length:7
+position:x:8,y:14
+solution:TARTARS
+
+new clue
+number:1
+clue:Graduates turn up to City for leisurely day (7)
+direction:down
+length:7
+position:x:0,y:0
+solution:SABBATH
+
+new clue
+number:2
+clue:Professional sightseer? (15)
+direction:down
+length:15
+position:x:2,y:0
+solution:OPHTHALMOLOGIST
+
+new clue
+number:3
+clue:Falls and spills all over the place (9)
+direction:down
+length:9
+position:x:4,y:0
+solution:LANDSLIPS
+
+new clue
+number:4
+clue:Remarked on Edward''s absence? (5)
+direction:down
+length:5
+position:x:6,y:0
+solution:NOTED
+
+new clue
+number:5
+clue:Speeds up manoeuvring round set points (5,2,2)
+direction:down
+length:9
+position:x:8,y:0
+solution:STEPSONIT
+
+new clue
+number:6
+clue:German slang sounds like nonsense (5)
+direction:down
+length:5
+position:x:10,y:0
+solution:BOCHE
+
+new clue
+number:7
+clue:Its members are all players in the City (6,9)
+direction:down
+length:15
+position:x:12,y:0
+solution:LONDONORCHESTRA
+
+new clue
+number:8
+clue:Others design to begin again (7)
+direction:down
+length:7
+position:x:14,y:0
+solution:RESTART
+
+new clue
+number:13
+clue:Major reversed, followed by drunken binger talking incoherently (9)
+direction:down
+length:9
+position:x:6,y:6
+solution:GIBBERING
+
+new clue
+number:14
+clue:Spill a single drop! (4,1,4)
+direction:down
+length:9
+position:x:10,y:6
+solution:SHEDATEAR
+
+new clue
+number:15
+clue:Repudiates individual in Norfolk town (7)
+direction:down
+length:7
+position:x:0,y:8
+solution:DISOWNS
+
+new clue
+number:17
+clue:Their working day is spent behind the wheel (7)
+direction:down
+length:7
+position:x:14,y:8
+solution:POTTERS
+
+new clue
+number:19
+clue:The whole orchestra express disapproval to it coming back (5)
+direction:down
+length:5
+position:x:4,y:10
+solution:TUTTI
+
+new clue
+number:20
+clue:May have power (5)
+direction:down
+length:5
+position:x:8,y:10
+solution:MIGHT

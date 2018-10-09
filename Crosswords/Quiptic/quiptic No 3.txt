@@ -1,0 +1,256 @@
+size:15
+new clue
+number:1
+clue:Wide hat not something trivial (7)
+direction:across
+length:7
+position:x:0,y:0
+solution:WHATNOT
+
+new clue
+number:5
+clue:Out of bed, taking charges to a higher place (7)
+direction:across
+length:7
+position:x:8,y:0
+solution:UPWARDS
+
+new clue
+number:9
+clue:Children matter (5)
+direction:across
+length:5
+position:x:0,y:2
+solution:ISSUE
+
+new clue
+number:10
+clue:Sea-going flag to leave outside sanctuary (3,6)
+direction:across
+length:9
+position:x:6,y:2
+solution:REDENSIGN
+
+new clue
+number:11
+clue:Thick skin manufactured from his and her doe (9)
+direction:across
+length:9
+position:x:0,y:4
+solution:HORSEHIDE
+
+new clue
+number:12
+clue:Refugees evacuated, including some silly people (5)
+direction:across
+length:5
+position:x:10,y:4
+solution:GEESE
+
+new clue
+number:13
+clue:Doctor has one afterthought for weak people (5)
+direction:across
+length:5
+position:x:0,y:6
+solution:DRIPS
+
+new clue
+number:15
+clue:Heavenly being, one with right to shift to left (9)
+direction:across
+length:9
+position:x:6,y:6
+solution:ARCHANGEL
+
+new clue
+number:18
+clue:Wise man not ready to see the colour of aromatic leaves (4-5)
+direction:across
+length:9
+position:x:0,y:8
+solution:SAGEGREEN
+
+new clue
+number:19
+clue:Scarface loses high card in this muffler (5)
+direction:across
+length:5
+position:x:10,y:8
+solution:SCARF
+
+new clue
+number:21
+clue:Carol endlessly clinging to mother's bouquet (5)
+direction:across
+length:5
+position:x:0,y:10
+solution:AROMA
+
+new clue
+number:23
+clue:Low level of subsistence makes bride lean! (9)
+direction:across
+length:9
+position:x:6,y:10
+solution:BREADLINE
+
+new clue
+number:25
+clue:Cheap but vulgar manner to move time (3-6)
+direction:across
+length:9
+position:x:0,y:12
+solution:LOWBUDGET
+
+new clue
+number:26
+clue:Behaved like Bill and Ted (5)
+direction:across
+length:5
+position:x:10,y:12
+solution:ACTED
+
+new clue
+number:27
+clue:Cheerless time to enter a grape factory? (7)
+direction:across
+length:7
+position:x:0,y:14
+solution:WINTERY
+
+new clue
+number:28
+clue:I'm a drag looking silly in this sketch (7)
+direction:across
+length:7
+position:x:8,y:14
+solution:DIAGRAM
+
+new clue
+number:1
+clue:Dr White twisted and twisted (7)
+direction:down
+length:7
+position:x:0,y:0
+solution:WRITHED
+
+new clue
+number:2
+clue:Interesting sailor to sing going round world (9)
+direction:down
+length:9
+position:x:2,y:0
+solution:ABSORBING
+
+new clue
+number:3
+clue:She has an aunt -- English, residing in Nice (5)
+direction:down
+length:5
+position:x:4,y:0
+solution:NIECE
+
+new clue
+number:4
+clue:Stop and meet train when moving (9)
+direction:down
+length:9
+position:x:6,y:0
+solution:TERMINATE
+
+new clue
+number:5
+clue:Upper-class wriggling nude is not necessary (5)
+direction:down
+length:5
+position:x:8,y:0
+solution:UNDUE
+
+new clue
+number:6
+clue:Negative girl joins WI for claret, maybe (9)
+direction:down
+length:9
+position:x:10,y:0
+solution:WINEGLASS
+
+new clue
+number:7
+clue:Praise not started, so collect is read (5)
+direction:down
+length:5
+position:x:12,y:0
+solution:RAISE
+
+new clue
+number:8
+clue:Name of fish, not applicable in Leeds when written up (4,3)
+direction:down
+length:7
+position:x:14,y:0
+solution:SANDEEL
+
+new clue
+number:14
+clue:Giant sure to scramble means of identification (9)
+direction:down
+length:9
+position:x:4,y:6
+solution:SIGNATURE
+
+new clue
+number:16
+clue:Substance of book leads to editor being happy (9)
+direction:down
+length:9
+position:x:8,y:6
+solution:CONTENTED
+
+new clue
+number:17
+clue:Fighter delighted one on a rocky peak (9)
+direction:down
+length:9
+position:x:12,y:6
+solution:GLADIATOR
+
+new clue
+number:18
+clue:Everyone in TV programme is superficial (7)
+direction:down
+length:7
+position:x:0,y:8
+solution:SHALLOW
+
+new clue
+number:20
+clue:Liberty to be fed more fudge (7)
+direction:down
+length:7
+position:x:14,y:8
+solution:FREEDOM
+
+new clue
+number:22
+clue:Welsh girl is partly a damfool wench (5)
+direction:down
+length:5
+position:x:2,y:10
+solution:OLWEN
+
+new clue
+number:23
+clue:Bay gee-gee taken in when loose (5)
+direction:down
+length:5
+position:x:6,y:10
+solution:BAGGY
+
+new clue
+number:24
+clue:Show how DA makes enclosure for male sheep (5)
+direction:down
+length:5
+position:x:10,y:10
+solution:DRAMA

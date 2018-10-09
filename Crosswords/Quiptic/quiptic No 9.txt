@@ -1,0 +1,224 @@
+size:15
+new clue
+number:1
+clue:Lay egg or develop grotesque figure (8)
+direction:across
+length:8
+position:x:0,y:0
+solution:GARGOYLE
+
+new clue
+number:5
+clue:Sacred beetle's mark on seaman (6)
+direction:across
+length:6
+position:x:9,y:0
+solution:SCARAB
+
+new clue
+number:9
+clue:Unsettled? Relax on the French ship! (8)
+direction:across
+length:8
+position:x:0,y:2
+solution:RESTLESS
+
+new clue
+number:10
+clue:No care wrecked part of eye (6)
+direction:across
+length:6
+position:x:9,y:2
+solution:CORNEA
+
+new clue
+number:11
+clue:Disease caused by tiny, quiet love-kiss (8)
+direction:across
+length:8
+position:x:0,y:4
+solution:SMALLPOX
+
+new clue
+number:12
+clue:Obsessive person's coat (6)
+direction:across
+length:6
+position:x:9,y:4
+solution:ANORAK
+
+new clue
+number:14
+clue:Simple, Dr Watson! (10)
+direction:across
+length:10
+position:x:5,y:6
+solution:ELEMENTARY
+
+new clue
+number:18
+clue:William from the Far East produces menu (4,2,4)
+direction:across
+length:10
+position:x:0,y:8
+solution:BILLOFFARE
+
+new clue
+number:22
+clue:Merchant is backing red art (6)
+direction:across
+length:6
+position:x:0,y:10
+solution:TRADER
+
+new clue
+number:23
+clue:He believes I spliced badly (8)
+direction:across
+length:8
+position:x:7,y:10
+solution:DISCIPLE
+
+new clue
+number:24
+clue:Initially I go under a nasty African reptile (6)
+direction:across
+length:6
+position:x:0,y:12
+solution:IGUANA
+
+new clue
+number:25
+clue:Appear diminished, they say, but in one piece (8)
+direction:across
+length:8
+position:x:7,y:12
+solution:SEAMLESS
+
+new clue
+number:26
+clue:Make a mistake about reserved wine (6)
+direction:across
+length:6
+position:x:0,y:14
+solution:SHERRY
+
+new clue
+number:27
+clue:Roll found swirling in River Clyde (8)
+direction:across
+length:8
+position:x:7,y:14
+solution:CYLINDER
+
+new clue
+number:1
+clue:Showy food decoration had lost one point (6)
+direction:down
+length:6
+position:x:0,y:0
+solution:GARISH
+
+new clue
+number:2
+clue:Rogue coming from behind to discover a scallywag (6)
+direction:down
+length:6
+position:x:2,y:0
+solution:RASCAL
+
+new clue
+number:3
+clue:Call-girl spoken of in an obsequious way (6)
+direction:down
+length:6
+position:x:4,y:0
+solution:OILILY
+
+new clue
+number:4
+clue:Destruction of misplaced file is the end of everything (4,2,4)
+direction:down
+length:10
+position:x:6,y:0
+solution:LOSSOFLIFE
+
+new clue
+number:6
+clue:Joking jester in centre of Wigan (8)
+direction:down
+length:8
+position:x:10,y:0
+solution:CLOWNING
+
+new clue
+number:7
+clue:Bypass round main street (4,4)
+direction:down
+length:8
+position:x:12,y:0
+solution:RINGROAD
+
+new clue
+number:8
+clue:This bean's a shiner (8)
+direction:down
+length:8
+position:x:14,y:0
+solution:BLACKEYE
+
+new clue
+number:13
+clue:Exaggerated needlework? (10)
+direction:down
+length:10
+position:x:8,y:5
+solution:EMBROIDERY
+
+new clue
+number:15
+clue:Declines to drink, so brings dishonour to backward scholar (8)
+direction:down
+length:8
+position:x:0,y:7
+solution:ABSTAINS
+
+new clue
+number:16
+clue:Super ale brew gives enjoyment (8)
+direction:down
+length:8
+position:x:2,y:7
+solution:PLEASURE
+
+new clue
+number:17
+clue:Chief found in training over Northern fences (8)
+direction:down
+length:8
+position:x:4,y:7
+solution:GOVERNOR
+
+new clue
+number:19
+clue:Seafood swindler I am following (6)
+direction:down
+length:6
+position:x:10,y:9
+solution:SCAMPI
+
+new clue
+number:20
+clue:Extend sumptuous meal (6)
+direction:down
+length:6
+position:x:12,y:9
+solution:SPREAD
+
+new clue
+number:21
+clue:Old bloke told about Spring (6)
+direction:down
+length:6
+position:x:14,y:9
+solution:GEYSER

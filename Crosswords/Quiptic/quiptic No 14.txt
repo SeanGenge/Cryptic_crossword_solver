@@ -1,0 +1,224 @@
+size:15
+new clue
+number:1
+clue:Quality work done by southern chap in boats (13)
+direction:across
+length:13
+position:x:1,y:0
+solution:CRAFTSMANSHIP
+
+new clue
+number:10
+clue:A bore takes one drink and goes native (9)
+direction:across
+length:9
+position:x:0,y:2
+solution:ABORIGINE
+
+new clue
+number:11
+clue:He came over to take part in a small dramatic sketch (5)
+direction:across
+length:5
+position:x:10,y:2
+solution:CAMEO
+
+new clue
+number:12
+clue:Little girl in hat was done for (3,2)
+direction:across
+length:5
+position:x:0,y:4
+solution:HADIT
+
+new clue
+number:13
+clue:Talking rubbish compels use of bigger bin (9)
+direction:across
+length:9
+position:x:6,y:4
+solution:GIBBERING
+
+new clue
+number:14
+clue:Mum takes right entrance to seaside resort (7)
+direction:across
+length:7
+position:x:0,y:6
+solution:MARGATE
+
+new clue
+number:16
+clue:Church girl in wonderland finds communion vessel (7)
+direction:across
+length:7
+position:x:8,y:6
+solution:CHALICE
+
+new clue
+number:18
+clue:Little rod catches baby frog (7)
+direction:across
+length:7
+position:x:0,y:8
+solution:TADPOLE
+
+new clue
+number:20
+clue:Staying upset is gloomy (7)
+direction:across
+length:7
+position:x:8,y:8
+solution:STYGIAN
+
+new clue
+number:21
+clue:As usual, May courts disaster (9)
+direction:across
+length:9
+position:x:0,y:10
+solution:CUSTOMARY
+
+new clue
+number:23
+clue:Teach teacher (5)
+direction:across
+length:5
+position:x:10,y:10
+solution:COACH
+
+new clue
+number:24
+clue:I bail out, saying I was somewhere else (5)
+direction:across
+length:5
+position:x:0,y:12
+solution:ALIBI
+
+new clue
+number:25
+clue:Get moving! Don't appear moribund! (4,5)
+direction:across
+length:9
+position:x:6,y:12
+solution:LOOKALIVE
+
+new clue
+number:26
+clue:Commercial vines met trade disruption (13)
+direction:across
+length:13
+position:x:1,y:14
+solution:ADVERTISEMENT
+
+new clue
+number:2
+clue:Asked again for Queen to return before requested (9)
+direction:down
+length:9
+position:x:2,y:0
+solution:REORDERED
+
+new clue
+number:3
+clue:Pass off as valuable when love's within grasp (5)
+direction:down
+length:5
+position:x:4,y:0
+solution:FOIST
+
+new clue
+number:4
+clue:Flashing lead holds roof tile (7)
+direction:down
+length:7
+position:x:6,y:0
+solution:SHINGLE
+
+new clue
+number:5
+clue:Harsh to have a Serb, they say, in charge (7)
+direction:down
+length:7
+position:x:8,y:0
+solution:ACERBIC
+
+new clue
+number:6
+clue:Amanuensis reveals headless Mary mystery first (9)
+direction:down
+length:9
+position:x:10,y:0
+solution:SECRETARY
+
+new clue
+number:7
+clue:I am bipedal, having poetic feet (5)
+direction:down
+length:5
+position:x:12,y:0
+solution:IAMBI
+
+new clue
+number:8
+clue:Euclid, for example, met a match in A1 form (13)
+direction:down
+length:13
+position:x:0,y:1
+solution:MATHEMATICIAN
+
+new clue
+number:9
+clue:French kiss not to be taken seriously? (6,2,5)
+direction:down
+length:13
+position:x:14,y:1
+solution:TONGUEINCHEEK
+
+new clue
+number:15
+clue:Express regret for driving VW with soldier into choppy sea (9)
+direction:down
+length:9
+position:x:4,y:6
+solution:APOLOGISE
+
+new clue
+number:17
+clue:O, it ain't 'im juggling; it ain't real (9)
+direction:down
+length:9
+position:x:12,y:6
+solution:IMITATION
+
+new clue
+number:19
+clue:Soft gold carried by the Spanish and French is used for shoulder ornament (7)
+direction:down
+length:7
+position:x:6,y:8
+solution:EPAULET
+
+new clue
+number:20
+clue:Crafty curs! They know more then they're telling (3,4)
+direction:down
+length:7
+position:x:8,y:8
+solution:SLYDOGS
+
+new clue
+number:22
+clue:"Spotted", said the spider without hesitation (5)
+direction:down
+length:5
+position:x:2,y:10
+solution:SPIED
+
+new clue
+number:23
+clue:Mascot takes tea with the Marines (5)
+direction:down
+length:5
+position:x:10,y:10
+solution:CHARM

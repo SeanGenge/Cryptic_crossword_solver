@@ -1,0 +1,216 @@
+size:15
+new clue
+number:1
+clue:Container on vehicle not coming back (6)
+direction:across
+length:6
+position:x:0,y:0
+solution:CARTON
+
+new clue
+number:5
+clue:Orders are: try US government department (8)
+direction:across
+length:8
+position:x:7,y:0
+solution:TREASURY
+
+new clue
+number:9
+clue:Stand beneath a statue (8)
+direction:across
+length:8
+position:x:0,y:2
+solution:PEDESTAL
+
+new clue
+number:10
+clue:They stop motorists leaving car's front lights on (6)
+direction:across
+length:6
+position:x:9,y:2
+solution:CLAMPS
+
+new clue
+number:11
+clue:Title of excellent vessel (12)
+direction:across
+length:12
+position:x:3,y:4
+solution:CHAMPIONSHIP
+
+new clue
+number:13
+clue:Street map taking me round the labyrinth (4)
+direction:across
+length:4
+position:x:0,y:6
+solution:MAZE
+
+new clue
+number:14
+clue:It's worn out, having to cover a new building (8)
+direction:across
+length:8
+position:x:7,y:6
+solution:OVERCOAT
+
+new clue
+number:17
+clue:Most popular school period? (8)
+direction:across
+length:8
+position:x:0,y:8
+solution:PLAYTIME
+
+new clue
+number:18
+clue:Scraps rum on 1st September (4)
+direction:across
+length:4
+position:x:11,y:8
+solution:ODDS
+
+new clue
+number:20
+clue:Bathroom cleaners? (12)
+direction:across
+length:12
+position:x:0,y:10
+solution:TOOTHBRUSHES
+
+new clue
+number:23
+clue:Possibly fly in with a religious group (6)
+direction:across
+length:6
+position:x:0,y:12
+solution:INSECT
+
+new clue
+number:24
+clue:Singer soon gets into these instruments (8)
+direction:across
+length:8
+position:x:7,y:12
+solution:BASSOONS
+
+new clue
+number:25
+clue:Fool tossed roses to valuer (8)
+direction:across
+length:8
+position:x:0,y:14
+solution:ASSESSOR
+
+new clue
+number:26
+clue:Air lad put into one sort of tyre (6)
+direction:across
+length:6
+position:x:9,y:14
+solution:RADIAL
+
+new clue
+number:2
+clue:The very last word in prayer! (4)
+direction:down
+length:4
+position:x:1,y:0
+solution:AMEN
+
+new clue
+number:3
+clue:Try each sovereign brought in for treason (9)
+direction:down
+length:9
+position:x:3,y:0
+solution:TREACHERY
+
+new clue
+number:4
+clue:Man's hat Ann repaired (6)
+direction:down
+length:6
+position:x:5,y:0
+solution:NATHAN
+
+new clue
+number:5
+clue:Wanted to give someone a ring? (9,6)
+direction:down
+length:15
+position:x:7,y:0
+solution:TELEPHONENUMBER
+
+new clue
+number:6
+clue:Nearly, in goal, is surrounded (8)
+direction:down
+length:8
+position:x:9,y:0
+solution:ENCLOSED
+
+new clue
+number:7
+clue:Stops Scottish river vessel coming round (5)
+direction:down
+length:5
+position:x:11,y:0
+solution:STAYS
+
+new clue
+number:8
+clue:Exploding primers and rockets (10)
+direction:down
+length:10
+position:x:13,y:0
+solution:REPRIMANDS
+
+new clue
+number:12
+clue:Pens will be black at first, all with sharp ends (10)
+direction:down
+length:10
+position:x:1,y:5
+solution:BALLPOINTS
+
+new clue
+number:15
+clue:Angry with news feature in most newspapers (9)
+direction:down
+length:9
+position:x:11,y:6
+solution:CROSSWORD
+
+new clue
+number:16
+clue:Rearranged side beat health problem (8)
+direction:down
+length:8
+position:x:5,y:7
+solution:DIABETES
+
+new clue
+number:19
+clue:A second drink for a horse? (6)
+direction:down
+length:6
+position:x:9,y:9
+solution:CHASER
+
+new clue
+number:21
+clue:Subject: "The Crossword Compiler" (5)
+direction:down
+length:5
+position:x:3,y:10
+solution:THEME
+
+new clue
+number:22
+clue:Girl once bought things in India (4)
+direction:down
+length:4
+position:x:13,y:11
+solution:ANNA

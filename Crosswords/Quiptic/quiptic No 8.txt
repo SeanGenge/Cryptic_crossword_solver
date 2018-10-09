@@ -1,0 +1,232 @@
+size:15
+new clue
+number:9
+clue:Disease in Channel, plus one east of New Zealand (9)
+direction:across
+length:9
+position:x:0,y:1
+solution:INFLUENZA
+
+new clue
+number:10
+clue:Remove all trace of king kept in comfort (5)
+direction:across
+length:5
+position:x:10,y:1
+solution:ERASE
+
+new clue
+number:11
+clue:Heater makes the rig safe (3,4)
+direction:across
+length:7
+position:x:0,y:3
+solution:GASFIRE
+
+new clue
+number:12
+clue:Acknowledged what played music in blue? (7)
+direction:across
+length:7
+position:x:8,y:3
+solution:SALUTED
+
+new clue
+number:13
+clue:I almost row to New York, which could be dramatic! (5)
+direction:across
+length:5
+position:x:0,y:5
+solution:IRONY
+
+new clue
+number:14
+clue:The wrong way to support charges (9)
+direction:across
+length:9
+position:x:6,y:5
+solution:BACKWARDS
+
+new clue
+number:16
+clue:Become annoyed, having freely agreed ten pounds (3,4,6,2)
+direction:across
+length:15
+position:x:0,y:7
+solution:GETONESDANDERUP
+
+new clue
+number:19
+clue:Unrefined hooligan when dancing about (5-4)
+direction:across
+length:9
+position:x:0,y:9
+solution:ROUGHHEWN
+
+new clue
+number:21
+clue:Excellent flatfish! (5)
+direction:across
+length:5
+position:x:10,y:9
+solution:BRILL
+
+new clue
+number:22
+clue:Cunning St. Helen's beginning to hold a kind of duck (7)
+direction:across
+length:7
+position:x:0,y:11
+solution:STEALTH
+
+new clue
+number:23
+clue:Sudden growth in business including wine leads to tedium (7)
+direction:across
+length:7
+position:x:8,y:11
+solution:BOREDOM
+
+new clue
+number:24
+clue:He's in the Civil Service. What a game! (5)
+direction:across
+length:5
+position:x:0,y:13
+solution:CHESS
+
+new clue
+number:25
+clue:Wee Willie Winkie's dark habit? (9)
+direction:across
+length:9
+position:x:6,y:13
+solution:NIGHTGOWN
+
+new clue
+number:1
+clue:Telephone touch may display engaged signal? (4,6)
+direction:down
+length:10
+position:x:0,y:0
+solution:RINGFINGER
+
+new clue
+number:2
+clue:Development of Geoff's hooter (8)
+direction:down
+length:8
+position:x:2,y:0
+solution:OFFSHOOT
+
+new clue
+number:3
+clue:Vehicle oily, but not starting in a very active way (6)
+direction:down
+length:6
+position:x:4,y:0
+solution:BUSILY
+
+new clue
+number:4
+clue:Dead Queen wrapped in flannelette (4)
+direction:down
+length:4
+position:x:6,y:0
+solution:ANNE
+
+new clue
+number:5
+clue:Garland for girl asked to answer on linked circles (5-5)
+direction:down
+length:10
+position:x:8,y:0
+solution:DAISYCHAIN
+
+new clue
+number:6
+clue:Bride or groom just sitting on rising dew (5-3)
+direction:down
+length:8
+position:x:10,y:0
+solution:NEWLYWED
+
+new clue
+number:7
+clue:Yorkshire pudding for cricketer? (6)
+direction:down
+length:6
+position:x:12,y:0
+solution:BATTER
+
+new clue
+number:8
+clue:It's a legal document any way (4)
+direction:down
+length:4
+position:x:14,y:0
+solution:DEED
+
+new clue
+number:14
+clue:Imploring person standing around to visit child (10)
+direction:down
+length:10
+position:x:6,y:5
+solution:BESEECHING
+
+new clue
+number:15
+clue:Extra flexible chaps arriving on time (10)
+direction:down
+length:10
+position:x:14,y:5
+solution:SUPPLEMENT
+
+new clue
+number:17
+clue:Put up in hospital, I lean over and I reject all customary values (8)
+direction:down
+length:8
+position:x:4,y:7
+solution:NIHILIST
+
+new clue
+number:18
+clue:It's a bit wet to confuse pair with Dr. No (8)
+direction:down
+length:8
+position:x:12,y:7
+solution:RAINDROP
+
+new clue
+number:20
+clue:Not fairly matched, but mainly uneventful (6)
+direction:down
+length:6
+position:x:2,y:9
+solution:UNEVEN
+
+new clue
+number:21
+clue:Severely scold a bee that has swallowed a rat (6)
+direction:down
+length:6
+position:x:10,y:9
+solution:BERATE
+
+new clue
+number:22
+clue:Get rid of dry white wine (4)
+direction:down
+length:4
+position:x:0,y:11
+solution:SACK
+
+new clue
+number:23
+clue:Youth incorporates good and evil spirit (4)
+direction:down
+length:4
+position:x:8,y:11
+solution:BOGY

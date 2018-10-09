@@ -1,0 +1,224 @@
+size:15
+new clue
+number:1
+clue:Bottomless wine cask for old musician (7)
+direction:across
+length:7
+position:x:0,y:0
+solution:SACKBUT
+
+new clue
+number:5
+clue:Born with a skin disease, being without energy, I take calls (7)
+direction:across
+length:7
+position:x:8,y:0
+solution:BLEEPER
+
+new clue
+number:9
+clue:Go away with sounds of fairy rings stealing around - damage just where one didn't want it (5,7,2,3,4)
+direction:across
+length:5
+position:x:0,y:2
+solution:SHOOT
+
+new clue
+number:10
+clue:See 9
+direction:across
+length:9
+position:x:6,y:2
+solution:INTHEFOOT
+
+new clue
+number:11
+clue:ITV needs master, maybe, and we are it (14)
+direction:across
+length:14
+position:x:1,y:4
+solution:ADVERTISEMENTS
+
+new clue
+number:13
+clue:Commendation for being decapitated? (4)
+direction:across
+length:4
+position:x:0,y:6
+solution:LAUD
+
+new clue
+number:14
+clue:Flower eaten by flea, unusual jumper (4,4)
+direction:across
+length:8
+position:x:7,y:6
+solution:FAIRISLE
+
+new clue
+number:17
+clue:Serb terrorist reportedly observed behind Clinton? (8)
+direction:across
+length:8
+position:x:0,y:8
+solution:ARKANSAS
+
+new clue
+number:18
+clue:Colette's soldiers (4)
+direction:across
+length:4
+position:x:11,y:8
+solution:GIGI
+
+new clue
+number:21
+clue:Unwanted result of inaccurate attempt to 9 10? (1,4,2,3,4)
+direction:across
+length:14
+position:x:0,y:10
+solution:AHOLEINTHEHEAD
+
+new clue
+number:23
+clue:Time to die without punishment - abolish totally (9)
+direction:across
+length:9
+position:x:0,y:12
+solution:ERADICATE
+
+new clue
+number:24
+clue:Hindu deity opposed to being among Muslims (5)
+direction:across
+length:5
+position:x:10,y:12
+solution:SHIVA
+
+new clue
+number:25
+clue:Support for fire with club (7)
+direction:across
+length:7
+position:x:0,y:14
+solution:ANDIRON
+
+new clue
+number:26
+clue:See 9
+direction:across
+length:7
+position:x:8,y:14
+solution:ONESELF
+
+new clue
+number:1
+clue:Moderate appeal for love (2-2)
+direction:down
+length:4
+position:x:0,y:0
+solution:SOSO
+
+new clue
+number:2
+clue:The noisy bird in the tribe died and went to ... heaven? (5-6-4)
+direction:down
+length:15
+position:x:2,y:0
+solution:CLOUDCUCKOOLAND
+
+new clue
+number:3
+clue:Left the bar, ordered by the wife (6,4)
+direction:down
+length:6
+position:x:4,y:0
+solution:BETTER
+
+new clue
+number:4
+clue:Solver's one right to enter two points on court (6)
+direction:down
+length:6
+position:x:6,y:0
+solution:THIRTY
+
+new clue
+number:5
+clue:Large cake: large roll's possibly as hot inside (4,4)
+direction:down
+length:8
+position:x:8,y:0
+solution:BATHSOAP
+
+new clue
+number:6
+clue:Nothing in Vermeer's work is for good (8)
+direction:down
+length:8
+position:x:10,y:0
+solution:EVERMORE
+
+new clue
+number:7
+clue:Expert and lay climber's link keeping pet No. 4 in prophetic style (15)
+direction:down
+length:15
+position:x:12,y:0
+solution:PROGNOSTICATIVE
+
+new clue
+number:8
+clue:Spitting's allowed here: decay is an endless chain (10)
+direction:down
+length:10
+position:x:14,y:0
+solution:ROTISSERIE
+
+new clue
+number:12
+clue:Painter of classical subjects, "The Mater Mated" possibly one (4-6)
+direction:down
+length:10
+position:x:0,y:5
+solution:ALMATADEMA
+
+new clue
+number:15
+clue:Gather 10 on river far from 3 (8)
+direction:down
+length:8
+position:x:4,y:7
+solution:INFERIOR
+
+new clue
+number:16
+clue:The Scots' own mountain covering, their own to keep (8)
+direction:down
+length:8
+position:x:6,y:7
+solution:MAINTAIN
+
+new clue
+number:19
+clue:Spell out 4, theoretically beginning at sea (5-1)
+direction:down
+length:6
+position:x:8,y:9
+solution:THREEO
+
+new clue
+number:20
+clue:Pursued, say (unsuccessfully, one may suppose) (6)
+direction:down
+length:6
+position:x:10,y:9
+solution:CHASTE
+
+new clue
+number:22
+clue:See 3
+direction:down
+length:4
+position:x:14,y:11
+solution:HALF

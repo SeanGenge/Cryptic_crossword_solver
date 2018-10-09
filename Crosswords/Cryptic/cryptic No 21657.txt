@@ -1,0 +1,240 @@
+size:15
+new clue
+number:1
+clue:Knife-point jerks in ring (7)
+direction:across
+length:7
+position:x:0,y:0
+solution:SCALPEL
+
+new clue
+number:5
+clue:Popular provisions contained by vessel (7)
+direction:across
+length:7
+position:x:8,y:0
+solution:INBOARD
+
+new clue
+number:9
+clue:Flag day gets scanty return (5)
+direction:across
+length:5
+position:x:0,y:2
+solution:DROOP
+
+new clue
+number:10
+clue:Crowfoot's caught in flannel (9)
+direction:across
+length:9
+position:x:6,y:2
+solution:BUTTERCUP
+
+new clue
+number:11
+clue:Primary constellation with Aldebaran producing light source (10)
+direction:across
+length:10
+position:x:0,y:4
+solution:CANDELABRA
+
+new clue
+number:12
+clue:Animals rush around (4)
+direction:across
+length:4
+position:x:11,y:4
+solution:DEER
+
+new clue
+number:14
+clue:Rich person to crush island wrath (11)
+direction:across
+length:11
+position:x:4,y:6
+solution:MILLIONAIRE
+
+new clue
+number:18
+clue:Metal casing on timer? No, I'm timer (11)
+direction:across
+length:11
+position:x:0,y:8
+solution:CHRONOMETER
+
+new clue
+number:21
+clue:Dead of night? (4)
+direction:across
+length:4
+position:x:0,y:10
+solution:LATE
+
+new clue
+number:22
+clue:Sort of flora - and quite decorative? (10)
+direction:across
+length:10
+position:x:5,y:10
+solution:QUATREFOIL
+
+new clue
+number:25
+clue:In small boat travelling into unknown (9)
+direction:across
+length:9
+position:x:0,y:12
+solution:INCOGNITO
+
+new clue
+number:26
+clue:Beast's plea for silence? (5)
+direction:across
+length:5
+position:x:10,y:12
+solution:DINGO
+
+new clue
+number:27
+clue:Fish or seer (7)
+direction:across
+length:7
+position:x:0,y:14
+solution:GOLDEYE
+
+new clue
+number:28
+clue:Work at court on dead boarding (7)
+direction:across
+length:7
+position:x:8,y:14
+solution:PLYWOOD
+
+new clue
+number:1
+clue:Win over deuces wild (6)
+direction:down
+length:6
+position:x:0,y:0
+solution:SEDUCE
+
+new clue
+number:2
+clue:Swarm in a vault (6)
+direction:down
+length:6
+position:x:2,y:0
+solution:ABOUND
+
+new clue
+number:3
+clue:Go for a brand new plant (10)
+direction:down
+length:10
+position:x:4,y:0
+solution:PEPPERMINT
+
+new clue
+number:4
+clue:Sign for books without lines (5)
+direction:down
+length:5
+position:x:6,y:0
+solution:LIBRA
+
+new clue
+number:5
+clue:Ban short term in charge (9)
+direction:down
+length:9
+position:x:8,y:0
+solution:INTERDICT
+
+new clue
+number:6
+clue:Asked pound for vegetable (4)
+direction:down
+length:4
+position:x:10,y:0
+solution:BEET
+
+new clue
+number:7
+clue:Attribute of alternating current and direct conversion (8)
+direction:down
+length:8
+position:x:12,y:0
+solution:ACCREDIT
+
+new clue
+number:8
+clue:What's done about bit left (8)
+direction:down
+length:8
+position:x:14,y:0
+solution:DEPARTED
+
+new clue
+number:13
+clue:Grim looking under fly in soup (10)
+direction:down
+length:10
+position:x:10,y:5
+solution:UNFRIENDLY
+
+new clue
+number:15
+clue:Row about Finnish wheeled vehicle (9)
+direction:down
+length:9
+position:x:6,y:6
+solution:LIMOUSINE
+
+new clue
+number:16
+clue:Very hot and going up over day (8)
+direction:down
+length:8
+position:x:0,y:7
+solution:SCALDING
+
+new clue
+number:17
+clue:Proper formality for Tory leader turned crazy (8)
+direction:down
+length:8
+position:x:2,y:7
+solution:PROTOCOL
+
+new clue
+number:19
+clue:Carried round island (6)
+direction:down
+length:6
+position:x:12,y:9
+solution:BORNEO
+
+new clue
+number:20
+clue:Salmon diet includes other foodstuff (6)
+direction:down
+length:6
+position:x:14,y:9
+solution:ALMOND
+
+new clue
+number:23
+clue:Group left upholding nothing (5)
+direction:down
+length:5
+position:x:8,y:10
+solution:TROOP
+
+new clue
+number:24
+clue:Fever should be OK in time (4)
+direction:down
+length:4
+position:x:4,y:11
+solution:AGUE

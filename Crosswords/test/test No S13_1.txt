@@ -1,0 +1,211 @@
+size:13
+new clue
+number:1
+clue:Sappers may pretend to relax (6)
+direction:across
+length:6
+position:x:0,y:0
+solution:repose
+new clue
+number:4
+clue:A stoic remake of corner moulding (6)
+direction:across
+length:6
+position:x:7,y:0
+solution:scotia
+new clue
+number:9
+clue:Flying bomb turned agent into a snake (5)
+direction:across
+length:5
+position:x:0,y:2
+solution:viper
+new clue
+number:10
+clue:A floater for the card game (7)
+direction:across
+length:7
+position:x:6,y:2
+solution:pontoon
+new clue
+number:11
+clue:Bloom that needs plenty of water (4)
+direction:across
+length:4
+position:x:0,y:4
+solution:lily
+new clue
+number:12
+clue:One trail that leads to the East (8)
+direction:across
+length:8
+position:x:5,y:4
+solution:oriental
+new clue
+number:13
+clue:The first best man is a builder (5)
+direction:across
+length:5
+position:x:1,y:6
+solution:brick
+new clue
+number:15
+clue:Way to hit, or give a belt (5)
+direction:across
+length:5
+position:x:7,y:6
+solution:strap
+new clue
+number:18
+clue:Large Bringing gifts from overseas can be taxing (8)
+direction:across
+length:8
+position:x:0,y:8
+solution:dutiable
+new clue
+number:21
+clue:Large toe nail? (4)
+direction:across
+length:4
+position:x:9,y:8
+solution:hoof
+new clue
+number:24
+clue:Orator needed to broadcast speech (7)
+direction:across
+length:7
+position:x:0,y:10
+solution:speaker
+new clue
+number:25
+clue:Follow the road (5)
+direction:across
+length:5
+position:x:8,y:10
+solution:trail
+new clue
+number:26
+clue:Talk a lot about a rat net (6)
+direction:across
+length:6
+position:x:0,y:12
+solution:natter
+new clue
+number:27
+clue:Level description of a charmer (6)
+direction:across
+length:6
+position:x:7,y:12
+solution:smooth
+new clue
+number:1
+clue:Avril confused the opponent (5)
+direction:down
+length:5
+position:x:0,y:0
+solution:rival
+new clue
+number:2
+clue:Up, up in the polar region is well liked (7)
+direction:down
+length:7
+position:x:2,y:0
+solution:popular
+new clue
+number:3
+clue:Aphrodite's child came up to be tender (4)
+direction:down
+length:4
+position:x:4,y:0
+solution:sore
+new clue
+number:5
+clue:Happy to cheat on shelter (7)
+direction:down
+length:7
+position:x:8,y:0
+solution:content
+new clue
+number:6
+clue:Two fifths of the tribe are away hunting for fish (5)
+direction:down
+length:5
+position:x:10,y:0
+solution:trout
+new clue
+number:7
+clue:Wildly ran old Mr. Palmer (6)
+direction:down
+length:6
+position:x:12,y:0
+solution:arnold
+new clue
+number:8
+clue:Boot spike to get a move on (4)
+direction:down
+length:4
+position:x:6,y:1
+solution:spur
+new clue
+number:12
+clue:Remove tree from soaking wood (3)
+direction:down
+length:3
+position:x:5,y:4
+solution:oak
+new clue
+number:14
+clue:One hundred the French put on the torture table to make a noise (7)
+direction:down
+length:7
+position:x:4,y:6
+solution:crackle
+new clue
+number:15
+clue:She can litigate (3)
+direction:down
+length:3
+position:x:7,y:6
+solution:sue
+new clue
+number:16
+clue:Advocate replacing aliene for nothing, will bear fruit (7)
+direction:down
+length:7
+position:x:10,y:6
+solution:avocado
+new clue
+number:17
+clue:Lighthouse inventor? (6)
+direction:down
+length:6
+position:x:0,y:7
+solution:edison
+new clue
+number:19
+clue:An endless agreement to pay for someone (5)
+direction:down
+length:5
+position:x:2,y:8
+solution:treat
+new clue
+number:20
+clue:Mess around with a bird (4)
+direction:down
+length:4
+position:x:6,y:8
+solution:lark
+new clue
+number:22
+clue:Obscene amount of dirt (5)
+direction:down
+length:5
+position:x:12,y:8
+solution:filth
+new clue
+number:23
+clue:Mets returned part of the plant (4)
+direction:down
+length:4
+position:x:8,y:9
+solution:stem

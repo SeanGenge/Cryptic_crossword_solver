@@ -1,0 +1,224 @@
+size:15
+new clue
+number:8
+clue:This tree may still make you laugh (8)
+direction:across
+length:8
+position:x:0,y:1
+solution:CHESTNUT
+
+new clue
+number:9
+clue:Bandit not at home on principle (6)
+direction:across
+length:6
+position:x:9,y:1
+solution:OUTLAW
+
+new clue
+number:10
+clue:Just like a blonde! (4)
+direction:across
+length:4
+position:x:0,y:3
+solution:FAIR
+
+new clue
+number:11
+clue:Petition for plump bird (5,5)
+direction:across
+length:10
+position:x:5,y:3
+solution:ROUNDROBIN
+
+new clue
+number:12
+clue:Being heart-broken, died showing enmity (6)
+direction:across
+length:6
+position:x:0,y:5
+solution:HATRED
+
+new clue
+number:14
+clue:Newspaper extract displaying activity of barber (8)
+direction:across
+length:8
+position:x:7,y:5
+solution:CLIPPING
+
+new clue
+number:15
+clue:Undergraduate, half dead, taking part in exploit (7)
+direction:across
+length:7
+position:x:0,y:7
+solution:STUDENT
+
+new clue
+number:17
+clue:Railway coach with beds for fairy-tale beauty? (7)
+direction:across
+length:7
+position:x:8,y:7
+solution:SLEEPER
+
+new clue
+number:20
+clue:Not worried about heartless referee (8)
+direction:across
+length:8
+position:x:0,y:9
+solution:CAREFREE
+
+new clue
+number:22
+clue:Old boy watched closely and complied (6)
+direction:across
+length:6
+position:x:9,y:9
+solution:OBEYED
+
+new clue
+number:23
+clue:Into battle in World War I, which is outrageous (4,3,3)
+direction:across
+length:10
+position:x:0,y:11
+solution:OVERTHETOP
+
+new clue
+number:24
+clue:Inflamed swelling detected in test yesterday (4)
+direction:across
+length:4
+position:x:11,y:11
+solution:STYE
+
+new clue
+number:25
+clue:Finger twisted hair on forehead (6)
+direction:across
+length:6
+position:x:0,y:13
+solution:FRINGE
+
+new clue
+number:26
+clue:Say "Eat me" like this and you should trounce him! (8)
+direction:across
+length:8
+position:x:7,y:13
+solution:EASYMEAT
+
+new clue
+number:1
+clue:Bird for dinner? Make haste with pan! (8)
+direction:down
+length:8
+position:x:1,y:0
+solution:PHEASANT
+
+new clue
+number:2
+clue:Russian emperor lies in great sarcophagus (4)
+direction:down
+length:4
+position:x:3,y:0
+solution:TSAR
+
+new clue
+number:3
+clue:Write Bergman in diagram (6)
+direction:down
+length:6
+position:x:5,y:0
+solution:INGRID
+
+new clue
+number:4
+clue:Loyal, being nuts to get up while carrying a child (7)
+direction:down
+length:7
+position:x:7,y:0
+solution:STAUNCH
+
+new clue
+number:5
+clue:Friendliness shown with right hand down (8)
+direction:down
+length:8
+position:x:9,y:0
+solution:GOODWILL
+
+new clue
+number:6
+clue:Prevailing mood provides master with hope (10)
+direction:down
+length:10
+position:x:11,y:0
+solution:ATMOSPHERE
+
+new clue
+number:7
+clue:No. 1 sailor turning up for allowance (6)
+direction:down
+length:6
+position:x:13,y:0
+solution:RATION
+
+new clue
+number:13
+clue:Wine and fish make an irrelevant topic (3,7)
+direction:down
+length:10
+position:x:3,y:5
+solution:REDHERRING
+
+new clue
+number:16
+clue:Earth's no different from a lot of water (5,3)
+direction:down
+length:8
+position:x:5,y:7
+solution:NORTHSEA
+
+new clue
+number:18
+clue:Typical human being must be jolly in call up (8)
+direction:down
+length:8
+position:x:13,y:7
+solution:EVERYMAN
+
+new clue
+number:19
+clue:Show anxiety about the type of bed (7)
+direction:down
+length:7
+position:x:7,y:8
+solution:FEATHER
+
+new clue
+number:21
+clue:Five cutting up fancy bread economically, for example (6)
+direction:down
+length:6
+position:x:1,y:9
+solution:ADVERB
+
+new clue
+number:22
+clue:Take issue with model after work (6)
+direction:down
+length:6
+position:x:9,y:9
+solution:OPPOSE
+
+new clue
+number:24
+clue:See me join Salvation Army to get uniform! (4)
+direction:down
+length:4
+position:x:11,y:11
+solution:SAME
